@@ -1,0 +1,11 @@
+
+input[type="submit"]:hover
+{
+    background-color: #4C7950;
+
+}
+
+input[type="submit"]:disabled
+{
+    background-color: red;
+}

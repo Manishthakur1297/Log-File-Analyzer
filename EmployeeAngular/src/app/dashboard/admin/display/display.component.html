@@ -1,0 +1,21 @@
+<h1>Employee Details</h1>
+<hr>
+
+<table id="customers">
+      <tr>
+        <th *ngFor="let col of columns">
+          {{col}}
+        </th>
+      </tr>
+      <tr *ngFor="let e of empE">
+        <td *ngFor="let col of index">
+          {{e[col]}}
+        </td>
+      </tr>
+
+      <tr *ngFor="let e of empM">
+        <td *ngFor="let col of index">
+          {{e[col]}}
+        </td>
+      </tr>
+    </table>

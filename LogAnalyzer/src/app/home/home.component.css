@@ -1,0 +1,124 @@
+h1,h2
+  {
+    color: #4CAF50;
+    text-align: center;
+  }
+/* ------------------Table--------------- */
+
+#logFile {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#logFile td, #logFile th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#logFile tr:nth-child(even){background-color: #f2f2f2;}
+
+#logFile tr:hover {background-color: #ddd;}
+
+#logFile th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+  
+  /* -------------------Form----------------------- */
+  label {
+      width: 8em;
+      padding: 10px;
+      margin: 7px 0px 7px 7px;
+    display : inline-block;
+    /* clear: both;
+    float: left; */
+    }
+  
+  legend
+  {
+      text-align: center;
+      font: bold;
+      font-size: 30px;
+      color: #4CAF50;
+      padding: 12px 12px 12px 12px;
+      width: 8em;
+      display: block;
+  }
+  
+  fieldset
+  {
+      background: rgba(242, 242, 242, 0.62);
+      font-size: 19px;
+      color: #4CAF50;
+      padding: 12px;
+      border: 1px solid rgb(0, 0, 0);
+      border-radius: 5px;
+      width: 500px;
+      margin:auto;
+  }
+  
+  input,select
+  {
+      border: 1px solid black;
+      border-radius: 4px;
+      padding: 9px;
+      margin: 20px 5px 5px 0px;   
+      width: 13em;
+   
+  }
+  
+  textarea
+  {
+      border: 1px solid black;
+      border-radius: 4px;
+      padding: 9px;
+      margin: 5px 5px 5px 0px;   
+    width: 13em;
+    display: inline-block;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  input[type=submit],input[type=reset],input[type=button]
+  {
+      background-color: #4CAF50;
+      border: 1px solid black;
+      border-radius: 4px;
+      color: white;
+      padding: 14px 24px;
+      text-decoration: none;
+      margin: 10px auto auto auto;
+      cursor: pointer;
+      display: block;
+      
+  }
+  
+  span.colorRed
+  {
+      color: red;
+      font-size: 12px;
+  }
+.centerDiv
+	{
+		width: 400px;
+		height:400px;
+		margin: 100px auto 0 auto;
+		background-color:#fff ;
+    }
+    
+
+    input[type="submit"]:hover
+    {
+        background-color: #4C7950;
+    
+    }

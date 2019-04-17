@@ -1,0 +1,14 @@
+<h1>Manager Portal</h1>
+<hr>
+<div class="navigation-bar">
+        <div id="navigation-container">
+            <ul> 
+                <li><a routerLink="account" routerLinkActive="active">Account</a></li>
+                <li><a routerLink="increment" routerLinkActive="active">Increment</a></li>
+                <li></li>
+                <li><button type="button" (click)="logout()">LOGOUT</button></li>
+            </ul>
+    </div>
+</div>
+
+<router-outlet></router-outlet>

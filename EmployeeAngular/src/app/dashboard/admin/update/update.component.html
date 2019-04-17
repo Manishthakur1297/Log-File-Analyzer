@@ -1,0 +1,50 @@
+<h1>Update Employee</h1>
+<hr>
+
+<label for="id">Enter Employee Id</label><input type="number" name="id" #id><br>
+<label for="id">Choose Role</label><select  name = "role" #role>
+    <option value="" selected disabled hidden>Choose here</option>
+<option value="Employee" selected>Employee</option>
+<option value="Manager">Manager</option>
+<option value="Admin">Admin</option>
+</select><br>
+<button type="button" (click)="getEmployee(id.value, role.value)">Get Employee</button>
+
+<div *ngIf="display">
+<hr>
+ <fieldset>
+    <legend>Update</legend>
+    <form class ="container" [formGroup]="form3" (ngSubmit)="updateEmployee(form3.value)">
+        <div class="loginBlock">
+
+                  <label for="uID">Employee Id</label><input type="number" name="uID" [(ngModel)] = "account.id" formControlName="uID"> <br>
+                  
+                  <label for="fname">First Name </label><input type="text" name="fname" [(ngModel)] = "account.firstName" formControlName="fname"> <br>
+        
+                  <label for="lname">Last Name </label><input type="text" name="lname" [(ngModel)] = "account.lastName" formControlName="lname"> <br>
+        
+                  <label for="number">Mobile Number</label><input type="number" name="number" [(ngModel)] = "account.mobile" formControlName="number"> <br>
+        
+                  <label for="email">Email </label><input type="email" name="email" [(ngModel)] = "account.email" formControlName="email"> <br>
+                  
+                  <label for="role">Role</label>
+                  <select name = "role" formControlName="role">
+                        <option value="" selected disabled hidden>{{account.role}}</option>
+                    <option value="employee">Employee</option>
+                    <option value="manager">Manager</option>
+                    <option value="admin">Admin</option>
+                  </select><br>
+
+                  <label for="salary">Salary </label><input type="number" name="salary" [(ngModel)] = "account.salary" formControlName="salary"> <br>
+                  
+                  <label for="pwd">Password </label><input type="password" name="pwd" [(ngModel)] = "account.password" placeholder="Enter Password" formControlName="pwd"> <br>
+                  
+                  <label for="Cpwd">Confirm Password</label><input type="password" name="Cpwd" [(ngModel)] = "account.password" placeholder="Confirm Password" formControlName="Cpwd"> <br>
+        
+                  <input type="submit" value="Update" [disabled]="!form3.valid">
+                  
+                  <input type="button" value="Cancel">
+          </div>
+      </form>	
+  </fieldset>
+  </div>

@@ -1,0 +1,20 @@
+<fieldset>
+      <legend>Login Form</legend>
+      <form class ="container" [formGroup]="form1" (ngSubmit)="clickLogin(form1.value)">
+              <div class="loginBlock">
+                  <label for="uID">User ID </label><input type="text" name="uID" placeholder="Enter User ID" formControlName="uID"> <br>
+                  <label for="password">Password </label><input type="password" name="password" placeholder="Enter Password" formControlName="password"> <br>
+                  <label for="role">Role</label>
+                  <select  name = "role" formControlName="role">
+                        <option value="" selected disabled hidden>Choose here</option>
+                    <option value="Employee" selected>Employee</option>
+                    <option value="Manager">Manager</option>
+                    <option value="Admin">Admin</option>
+                  </select><br>
+                  <input type="submit" value="SUBMIT" [disabled]="!form1.valid">
+                  <input type="reset" value="RESET">
+                  <!-- <input type="button" value="Logout" (click)="clickLogout()"> -->
+              </div>
+          </form>
+  
+  </fieldset>

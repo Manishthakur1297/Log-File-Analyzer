@@ -1,0 +1,26 @@
+
+
+<hr>
+
+
+<table id="logFile">
+  <tr>
+    <th *ngFor="let col of file_format">
+      {{col}}
+    </th>
+  </tr>
+  <tr *ngFor="let e of arr">
+    <td *ngFor="let col of file_format">
+      {{e[col]}}
+    </td>
+  </tr>
+</table>
+
+<!-- <script>
+
+$(document).ready(function(){
+        $('#logFile').find('tr:contains("ERROR")').css('background-color','red');
+        $('#logFile').find('tr:contains("INFO")').css('background-color','green');
+});
+
+</script> -->

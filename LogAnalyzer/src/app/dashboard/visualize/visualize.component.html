@@ -1,0 +1,41 @@
+<fieldset>
+  <legend>Visualize</legend>
+  <form class ="container" (ngSubmit)="visualizeQuery(column1.value, item.value)">
+      <div class="loginBlock">
+                <label for="column">Choose Column : </label>
+                    <!-- <select  name = "column1" #column1> -->
+                        <select   [(ngModel)]="column" name="column1" #column1 (change)="onColumnChange(column1.value)">
+                      <option *ngFor="let col of file_format" [value]="col">{{ col }}</option>
+                    </select><br>
+                <label for="chart">Chart Type : </label>
+                    <select   [(ngModel)]="barChartType" name="chart" #item (change)="onChange(item.value)">
+                      <option *ngFor="let col of chart_type" [value]="col.name">{{ col.title }}</option>
+                    </select><br>
+                      <!-- <input class = "button" type="submit" value="SUBMIT"> -->
+        </div>
+    </form>	
+</fieldset>
+
+<!-- <div class="navigation-bar">
+  <div id="navigation-container">
+        <ul> 
+          <li><a routerLink="barChart" routerLinkActive="active">Bar Chart</a></li>
+          <li><a routerLink="pieChart" routerLinkActive="active">Pie Chart</a></li>
+          <li><a routerLink="dougnutChart" routerLinkActive="active">DougNut Chart</a></li>
+          <li><a routerLink="lineChart" routerLinkActive="active">Line Chart</a></li>
+      </ul>
+  </div>
+</div> -->
+
+<hr>
+<div *ngIf="display" id="chartBackground">
+    <canvas baseChart
+          [datasets]="barChartData"
+          [labels]="barChartLabels"
+          [options]="barChartOptions"
+          [legend]="barChartLegend"
+          
+          [chartType]="barChartType"></canvas>
+</div>
+
+<!-- <router-outlet></router-outlet> -->

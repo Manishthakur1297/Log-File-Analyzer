@@ -1,0 +1,18 @@
+
+input[type="submit"]:hover
+{
+    background-color: #4C7950;
+
+}
+
+input[type="submit"]:disabled
+{
+    background-color: red;
+}
+div .error-block
+{
+    display: inline;
+    font-size: 12px;
+    color: red;
+
+}

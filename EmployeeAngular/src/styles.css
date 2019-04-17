@@ -1,0 +1,253 @@
+/* body::after {
+    width: 100vw;
+    height: 100vh; 
+    background-size: 100% 100%;
+    background-image: url("assets/img/bg.jpg") ;
+    content: "";
+    opacity: 0.15;
+    position: absolute;
+    background-repeat: repeat-y;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;   
+  } */
+  
+  
+  h1,h2
+  {
+    color: #4CAF50;
+    text-align: center;
+  }
+  
+  /* -------------------Form----------------------- */
+  label {
+      width: 8em;
+      padding: 10px;
+      margin: 7px 0px 7px 7px;
+    display : inline-block;
+    /* clear: both;
+    float: left; */
+    }
+  
+  legend
+  {
+      text-align: center;
+      font: bold;
+      font-size: 30px;
+      color: #4CAF50;
+      padding: 12px 12px 12px 12px;
+      width: 5em;
+      display: block;
+  }
+  
+  fieldset
+  {
+      background: rgba(242, 242, 242, 0.62);
+      font-size: 19px;
+      color: #4CAF50;
+      padding: 12px;
+      border: 1px solid rgb(0, 0, 0);
+      border-radius: 5px;
+      width: 600px;
+      margin:auto;
+  }
+  
+  input,select
+  {
+      border: 1px solid black;
+      border-radius: 4px;
+      padding: 9px;
+      margin: 20px 5px 5px 0px;   
+      width: 13em;
+   
+  }
+  
+  textarea
+  {
+      border: 1px solid black;
+      border-radius: 4px;
+      padding: 9px;
+      margin: 5px 5px 5px 0px;   
+    width: 13em;
+    display: inline-block;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  input[type=submit],input[type=reset],input[type=button]
+  {
+      background-color: #4CAF50;
+      border: 1px solid black;
+      border-radius: 4px;
+      color: white;
+      padding: 14px 24px;
+      text-decoration: none;
+      margin: 10px 6px 10px 6px;
+      cursor: pointer;
+  }
+  
+  span.colorRed
+  {
+      color: red;
+      font-size: 12px;
+  }
+  
+  
+  
+  /* --------------Service links ----------------- */
+  
+  img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 160px;
+  }
+  
+  img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+  
+  div.polaroid img
+  {
+      width: 300px;
+      height : 240px;
+  }
+  
+  div.polaroid {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline-block;
+    color: white;
+    border: 1px dotted #4CAF50;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    margin-left: 90px;
+  }
+  
+  div.container {
+    color: white;
+    border: 1px dotted #4CAF50;
+    background-color: #4CAF50;
+    font-size: 20px;
+    text-align: center;
+    height: 61px;
+    width: 300px;
+    margin-top: -5px;
+  }
+  
+  a
+  {
+    text-decoration: none;
+    
+  }
+  
+
+  /*  ----------------------------Navbar-------------------------*/
+
+.logo {
+  float: left;
+  width: auto;
+  height:70px;
+}
+
+#navigation-container {
+  width: 100%;
+  margin: 0 auto;
+  height: 70px;
+}
+
+.navigation-bar {
+  background-color: #4CAF50;
+  height: 70px;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  text-align:center;
+}
+.navigation-bar img{
+float:left;
+}
+.navigation-bar ul {
+  padding: 0px;
+  margin: 0px;
+  /* float: right; */
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}
+
+.navigation-bar li {
+  list-style-type: none;
+  padding: 0px;
+  /* height: 24px;
+  margin-top: 4px;
+  margin-bottom: 4px; */
+  display: inline;
+}
+
+
+
+.navigation-bar li button
+{
+  background:none!important;
+  color:inherit;
+  border:none; 
+  padding:0!important;
+  font-size: 20px;
+  border-bottom: 3px dotted red;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  cursor: pointer;
+  color: white;
+  font-style: oblique, italic, bold;
+  background: #4CAF50;
+  text-decoration: none;
+  line-height: 55px;
+  
+  
+
+}
+
+.navigation-bar li a {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  line-height: 65px;
+  padding: 5px 15px;
+  opacity: 1;
+  display: inline-block;
+}
+
+.navigation-bar li a:hover:not(.active) {background-color: #fff; color: #4CAF50}
+  
+.navigation-bar li a.active {background-color: #fff; color: #4CAF50}
+  
+  @media screen and (max-width: 600px) {
+    .navigation-bar li.right, 
+    .navigation-bar li {float: none;}
+  }
+
+
+  /*---------------Validation Button------------------*/
+
+  
+input[type="submit"]:hover
+{
+    background-color: #4C7950;
+
+}
+
+input[type="submit"]:disabled
+{
+    background-color: red;
+}

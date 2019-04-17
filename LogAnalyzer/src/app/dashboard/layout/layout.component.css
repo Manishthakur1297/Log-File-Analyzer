@@ -1,0 +1,129 @@
+/*  ----------------------------Navbar-------------------------*/
+
+.logo {
+    float: left;
+    width: auto;
+    height:70px;
+  }
+  
+  #navigation-container {
+    width: 100%;
+    margin: 0 auto;
+    height: 70px;
+  }
+  
+  .navigation-bar {
+    background-color: #4CAF50;
+    height: 70px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    text-align:center;
+  }
+  .navigation-bar img{
+  float:left;
+  }
+  .navigation-bar ul {
+    padding: 0px;
+    margin: 0px;
+    /* float: right; */
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+  }
+  
+  .navigation-bar li {
+    list-style-type: none;
+    padding: 0px;
+    /* height: 24px;
+    margin-top: 4px;
+    margin-bottom: 4px; */
+    display: inline;
+  }
+
+
+  
+  .navigation-bar li button
+  {
+    background:none!important;
+    color:inherit;
+    border:none; 
+    padding:0!important;
+    font-size: 20px;
+    border-bottom: 1px solid red;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    color: white;
+    font-style: oblique, italic, bold;
+    background: #4CAF50;
+    text-decoration: none;
+    line-height: 55px;
+    
+    
+
+  }
+
+  .navigation-bar li a {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    line-height: 65px;
+    padding: 5px 15px;
+    opacity: 1;
+    display: inline-block;
+  }
+  
+  .navigation-bar li a:hover:not(.active) {background-color: #fff; color: #4CAF50}
+    
+  .navigation-bar li a.active {background-color: #fff; color: #4CAF50}
+    
+    @media screen and (max-width: 600px) {
+      .navigation-bar li.right, 
+      .navigation-bar li {float: none;}
+    }
+
+
+    /* --------------DropDown------------- */
+
+    /* Dropdown Button */
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #4CAF50;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #fff; color: #4CAF50}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #fff; color: #4CAF50}

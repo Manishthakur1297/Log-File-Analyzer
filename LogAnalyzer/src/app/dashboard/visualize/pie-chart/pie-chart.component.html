@@ -1,0 +1,21 @@
+<fieldset>
+  <legend>Pie Chart</legend>
+  <form class ="container" (ngSubmit)="pieChartQuery(column.value)">
+      <div class="loginBlock">
+        <label for="column">Choose Column : </label>
+                    <select  name = "column" #column>
+                      <option *ngFor="let col of file_format" [value]="col">{{ col }}</option>
+                    </select><br>
+                      <input class = "button" type="submit" value="SUBMIT">
+        </div>
+    </form>	
+</fieldset>
+<hr>
+<div *ngIf="display" id="chartBackground" >
+    <canvas baseChart
+          [datasets]="barChartData"
+          [labels]="barChartLabels"
+          [options]="barChartOptions"
+          [legend]="barChartLegend"
+          [chartType]="barChartType"></canvas>
+</div>

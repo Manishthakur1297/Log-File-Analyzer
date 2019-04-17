@@ -1,0 +1,29 @@
+<fieldset>
+  <legend>Search</legend>
+  <form class ="container" (ngSubmit)="searchQuery(keywords.value, column.value)">
+      <div class="loginBlock">
+                <label for="keywords">Enter keywords : </label><input type="text" name="keywords" #keywords> <br>
+                
+                <label for="column">Choose Column : </label>
+                    <select  name = "column" #column>
+                      <option *ngFor="let col of file_format" [value]="col">{{ col }}</option>
+                    </select><br>
+                      <input class = "button" type="submit" value="SUBMIT">
+        </div>
+    </form>	
+</fieldset>
+
+<hr>
+
+<table id="logFile">
+      <tr>
+        <th *ngFor="let col of file_format1">
+          {{col}}
+        </th>
+      </tr>
+      <tr *ngFor="let e of arr">
+        <td *ngFor="let col of file_format1">
+          {{e[col]}}
+        </td>
+      </tr>
+</table>

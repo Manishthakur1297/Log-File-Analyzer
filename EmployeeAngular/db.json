@@ -1,0 +1,77 @@
+{
+  "Admin": [
+    {
+      "id": 0,
+      "firstName": "Manish",
+      "lastname": "Thakur",
+      "email": 8628829553,
+      "mobile": "manishthakur1297@gmail.com",
+      "password": "admin",
+      "role": "Admin"
+    }
+  ],
+  "Manager": [
+    {
+      "id": 2,
+      "firstName": "Pragya",
+      "lastName": "qqqqqqqwqw",
+      "email": 9805443269,
+      "mobile": 1212121,
+      "password": "11111",
+      "role": "Manager",
+      "salary": "80000"
+    },
+    {
+      "id": 768940,
+      "firstName": "Manish",
+      "lastName": "Thakur",
+      "email": "manishthakur1297@gmail.com",
+      "mobile": 8628829553,
+      "salary": "80000",
+      "password": "123456",
+      "role": "Manager"
+    },
+    {
+      "id": 1,
+      "firstName": "Manish",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "password": "1234",
+      "role": "Manager",
+      "salary": 80000
+    }
+  ],
+  "Employee": [
+    {
+      "id": 1,
+      "firstName": "Sahil",
+      "lastName": "Rana",
+      "email": "fgrger@erger.te",
+      "mobile": 8219042267,
+      "salary": "25000",
+      "password": "1",
+      "role": "Employee"
+    },
+    {
+      "id": 2,
+      "firstName": "Manish",
+      "lastName": "Thakur",
+      "email": "manishthakur1297@gmail.com",
+      "mobile": 8628829553,
+      "password": "1111",
+      "role": "Employee",
+      "salary": "35000"
+    },
+    {
+      "id": 3,
+      "firstName": "mj",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "password": "1234",
+      "role": "Employee",
+      "salary": 20000
+    }
+  ]
+}

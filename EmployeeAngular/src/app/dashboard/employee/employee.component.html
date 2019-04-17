@@ -1,0 +1,41 @@
+<h1>Employee Portal</h1>
+<hr>
+
+<div class="navigation-bar">
+        <div id="navigation-container">
+            <ul> 
+                <li><button type="button" (click)="logout()">LOGOUT</button></li>
+            </ul>
+    </div>
+</div>
+
+<fieldset>
+    <legend>Account Details</legend>
+        <form class ="container" [formGroup]="form3" (ngSubmit)="clickUpdate(form3.value)">
+            <div class="loginBlock">
+                <label for="uID">Employee Id</label><input type="number" name="uID" formControlName="uID" [attr.disabled]="true" [(ngModel)]="account.id">   <br>
+                    
+                <label for="fname">First Name </label><input type="text" name="fname" formControlName="fname" [attr.disabled]="true" [(ngModel)]="account.firstName"> <br>
+    
+                <label for="lname">Last Name </label><input type="text" name="lname" formControlName="lname" [(ngModel)]="account.lastName"> <br>
+    
+                <label for="number">Mobile Number</label><input type="number" name="number" formControlName="number" [(ngModel)]="account.mobile"> <br>
+    
+                <label for="email">Email </label><input type="email" name="email" formControlName="email" [(ngModel)]="account.email"> <br>
+                
+                <label for="role">Role</label><input type="text" name="role" formControlName="role" [(ngModel)]="account.role" [attr.disabled]="true"> <br>
+
+                <label for="salary">Salary </label><input type="number" name="salary"  [(ngModel)]="account.salary" placeholder="Enter Salary" formControlName="salary"  [attr.disabled]="true"> <br>
+                
+                <label for="pwd">Password </label><input type="password" name="pwd" placeholder="Enter Password" formControlName="pwd"> <br>
+                
+                <label for="Cpwd">Confirm Password</label><input type="password" name="Cpwd" placeholder="Confirm Password" formControlName="Cpwd"> <br>
+                
+                <input type="submit" value="Update" [disabled]="!form3.valid">
+                    
+                 <input type="button" value="Cancel">
+                    
+                    
+            </div>
+        </form>	
+  </fieldset>

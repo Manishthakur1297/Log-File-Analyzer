@@ -1,0 +1,37 @@
+<h1> Log Analyzer</h1>
+<hr>
+
+    <fieldset>
+        <legend>Log File Analyzer</legend>
+        <form class ="container" (ngSubmit)="sendFile(file.value, format.value)">
+                <div class="loginBlock">
+                    <label for="file">Choose File : </label><input type='file' #file (change)="fileChanged($event) "class="inputfile"> <br>
+                    <label for="format">Choose Format : </label>
+                    <select  name = "format" #format>
+                      <option value="" selected disabled hidden>Choose here</option>
+                      <option value="Android" selected>Android Log File</option>
+                      <option value="Apache">Apache Log File</option>
+                      <option value="BGL">BGL Log File</option>
+                      <option value="Hadoop" selected>Hadoop Log File</option>
+                      <option value="HPC">HPC Log File</option>
+                      <option value="Linux">Linux Log File</option>
+                      <option value="Mac" selected>Mac Log File</option>
+                      <option value="Microsoft IIS">Microsoft IIS Log File</option>
+                      <option value="NCSA Combined">NCSA Combined Log File</option>
+                      <option value="NCSA Common">NCSA Common Log File</option>
+                      <option value="OpenSSH">OpenSSH Log File</option>
+                      <option value="OpenStack">OpenStack Log File</option>
+                      <option value="Proxifier">Proxifier Log File</option>
+                      <option value="Spark" selected>Spark Log File</option>
+                      <option value="Thunderbird">Thunderbird Log File</option>
+                      <option value="W3C Extended" selected>W3C Extended Log File</option>
+                      <option value="Windows">Windows Log File</option>
+                      <option value="Others">Others</option>
+                    </select><br>
+                      <input class = "button" type="submit" value="SUBMIT">
+                    <!-- <input type="reset" value="RESET"> -->
+                    <!-- <input type="button" value="Logout" (click)="clickLogout()"> -->
+                </div>
+            </form>
+    
+    </fieldset>

@@ -1,0 +1,15 @@
+<h1>Admin Portal</h1>
+<hr>
+<div class="navigation-bar">
+  <div id="navigation-container">
+        <ul> 
+          <li><a routerLink="create" routerLinkActive="active">Create</a></li>
+          <li><a routerLink="update" routerLinkActive="active">Update</a></li>
+          <li><a routerLink="delete" routerLinkActive="active">Delete</a></li>
+          <li><a routerLink="display" routerLinkActive="active">Display</a></li>
+          <li><button type="button" (click)="logout()">LOGOUT</button></li>
+      </ul>
+  </div>
+</div>
+
+<router-outlet></router-outlet>

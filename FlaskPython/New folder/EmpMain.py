@@ -1,0 +1,3 @@
+import EmployeeMenu;
+
+EmployeeMenu.main()

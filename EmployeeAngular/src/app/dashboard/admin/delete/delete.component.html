@@ -1,0 +1,11 @@
+<h1>Delete Employee</h1>
+<hr>
+
+<label for="id">Enter Employee Id</label><input type="number" name="id" #id><br>
+<label for="id">Choose Role</label><select  name = "role" #role>
+    <option value="" selected disabled hidden>Choose here</option>
+<option value="Employee" selected>Employee</option>
+<option value="Manager">Manager</option>
+<option value="Admin">Admin</option>
+</select><br>
+<button type="button" (click)="deleteEmployee(id.value, role.value)">Delete Employee</button>

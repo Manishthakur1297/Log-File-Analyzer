@@ -1,0 +1,38 @@
+<h1>Create Employee</h1>
+<hr>
+
+<fieldset>
+    <legend>Create</legend>
+    <form class ="container" [formGroup]="form3" (ngSubmit)="createEmployee(form3.value)">
+        <div class="loginBlock">
+
+                  <label for="uID">Employee Id</label><input type="number" name="uID" formControlName="uID"> <br>
+                  
+                  <label for="fname">First Name </label><input type="text" name="fname" formControlName="fname"> <br>
+        
+                  <label for="lname">Last Name </label><input type="text" name="lname" formControlName="lname"> <br>
+        
+                  <label for="number">Mobile Number</label><input type="number" name="number" formControlName="number"> <br>
+        
+                  <label for="email">Email </label><input type="email" name="email" formControlName="email"> <br>
+                  
+                  <label for="role">Role</label>
+                  <select  name = "role" formControlName="role" (change)="abc(t1.value)" #t1>
+                        <option value="" selected disabled hidden>Choose here</option>
+                    <option value="Employee" selected>Employee</option>
+                    <option value="Manager">Manager</option>
+                    <option value="Admin">Admin</option>
+                  </select><br>
+
+                  <label for="salary">Salary </label><input type="number" name="salary" [(ngModel)]="sal" placeholder="Enter Salary" formControlName="salary"> <br>
+                  
+                  <label for="pwd">Password </label><input type="password" name="pwd" placeholder="Enter Password" formControlName="pwd" [(ngModel)]="pass"> <br>
+                  
+                  <!-- <label for="Cpwd">Confirm Password</label><input type="password" name="Cpwd" placeholder="Confirm Password" formControlName="Cpwd"> <br> -->
+        
+                  <input type="submit" value="Create" [disabled]="!form3.valid">
+                  
+                  <input type="button" value="Cancel">
+          </div>
+      </form>	
+  </fieldset>

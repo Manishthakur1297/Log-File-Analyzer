@@ -1,0 +1,2 @@
+LineId,Date,Time,Pid,Tid,Level,Component,Content
+1,03-17,16:13:38.811,1702,2395,D,WindowManager,printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}} allDrawn= false startingDisplayed =  false startingMoved =  false isRelaunching =  false

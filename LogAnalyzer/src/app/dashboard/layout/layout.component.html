@@ -1,0 +1,37 @@
+<h1>Log Analyzer</h1>
+<hr>
+<div class="navigation-bar">
+  <div id="navigation-container">
+        <ul> 
+          <li><a routerLink="analyze" routerLinkActive="active">Analyze</a></li>
+          <li><a routerLink="visualize" routerLinkActive="active">Visualize</a></li>
+          <li><a routerLink="search" routerLinkActive="active">Search</a></li>
+          <li><a routerLink="sorting" routerLinkActive="active">Sort</a></li>
+          <li><button type="button" (click)="logout()">Log Analyzer</button></li>
+      </ul>
+  </div>
+</div>
+
+<!-- <div class="topnav">
+    <a routerLink="analyze" routerLinkActive="active">Analyze</a>
+    <a routerLink="visualize" routerLinkActive="active">Visualize</a>
+    <a routerLink="search" routerLinkActive="active">Search</a>
+    <a routerLink="sorting" routerLinkActive="active">Sort</a>
+    <div class="topnav-right">
+      <button type="button" (click)="logout()">Log Analyzer</button>
+    </div>
+  </div> -->
+  
+
+  <!-- <div class="header">
+      <a href="#default" class="logo">Log File Analyzer</a>
+      <div class="header-right">
+          <a routerLink="analyze" routerLinkActive="active">Analyze</a>
+          <a routerLink="visualize" routerLinkActive="active">Visualize</a>
+          <a routerLink="search" routerLinkActive="active">Search</a>
+          <a routerLink="sorting" routerLinkActive="active">Sort</a>
+          <button type="button" (click)="logout()">Log Analyzer</button>
+      </div>
+    </div> -->
+
+<router-outlet></router-outlet>

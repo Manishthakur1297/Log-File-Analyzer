@@ -8,41 +8,41 @@ from file_titles import titles
 
 class LogParser:
     def __init__(self, log_format, log_name):
-        self.logName = None
+        self.fileText = None
         self.log_format = log_format
         self.log_name = log_name
 
-    def parse(self, logName):
-        self.logName = logName
+    def parse(self, fileText):
+        self.fileText = fileText
         return self.load_data()
 
     def load_data(self):
         headers, regex = self.generate_logformat_regex(self.log_format)
-        self.df_log = self.log_to_dataframe(self.logName, regex, headers, self.log_format)
+        self.df_log = self.log_to_dataframe(self.fileText, regex, headers, self.log_format)
         return self.df_log
 
         
     def generate_logformat_regex(self, logformat):
         headers = []
         splitters = re.split(r'(<[^<>]+>)', logformat)
-        print(splitters)
+        # print(splitters)
         regex = ''
         for k in range(len(splitters)):
-            #print("k = ",k)
+            # print("k = ",k)
             if k % 2 == 0:
-                splitter = re.sub(', +', '\\\s+', splitters[k])
-                #print(splitter)
+                splitter = re.sub(' +', '\\\s+', splitters[k])
+                # print(splitter)
                 regex += splitter
-                #print("Regex = ",regex)
+                # print("Regex = ",regex)
             else:
                 header = splitters[k].strip('<').strip('>')
-                #print("Header = ",header)
+                # print("Header = ",header)
                 regex += '(?P<%s>.*?)' % header
-                #print("Regex = ",regex)
+                # print("Regex = ",regex)
                 headers.append(header)
         regex = re.compile('^' + regex + '$')
-        #print("Headers : ",headers)
-        #print("Regex : ",regex)
+        print("Headers : ",headers)
+        print("Regex : ",regex)
         return headers, regex
 
     
@@ -51,14 +51,15 @@ class LogParser:
         linecount = 0
         try:
             for line in log_file:
-                    print("Regex : ",regex)
-                    print("Line = ",line)
+                    # print("Regex : ",regex)
+                    # print("Line = ",line)
                     match = regex.search(line)
-                    print("Match = ",match)
+                    # print("Match = ",match)
                     message = [match.group(header) for header in headers]
-                    print("Message = ",message)
+                    # print("Message = ",message)
                     log_messages.append(message)
                     linecount += 1
+                    # print("-=--------------------------")
         except:
             pass
         logdf = pd.DataFrame(log_messages, columns=headers)

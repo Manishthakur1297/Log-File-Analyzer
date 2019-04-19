@@ -1,111 +1,103 @@
 titles = {
     'HDFS': {
-        'log_format': '<Date> <Time> <Pid> <Level> <Component>: <Content>',
-        'regex': [r'blk_-?\d+', r'(\d+\.){3}\d+(:\d+)?']
+        'log_format': '<Date> <Time> <Pid> <Level> <Component>: <Content>'
         },
 
     'Hadoop': {
-        'log_format': '<Date> <Time> <Level> \[<Process>\] <Component>: <Content>', 
-        'regex': [r'(\d+\.){3}\d+']     
+        'log_format': '<Date> <Time> <Level> \[<Process>\] <Component>: <Content>'
         },
 
     'Spark': {
-        'log_format': '<Date> <Time> <Level> <Component>: <Content>', 
-        'regex': [r'(\d+\.){3}\d+', r'\b[KGTM]?B\b', r'([\w-]+\.){2,}[\w-]+']
+        'log_format': '<Date> <Time> <Level> <Component>: <Content>'
         },
 
     'Zookeeper': {
-        'log_format': '<Date> <Time> - <Level>  \[<Node>:<Component>@<Id>\] - <Content>',
-        'regex': [r'(/|)(\d+\.){3}\d+(:\d+)?']
+        'log_format': '<Date> <Time> - <Level>  \[<Node>:<Component>@<Id>\] - <Content>'
         },
 
     'BGL': {
-        'log_format': '<Label> <Timestamp> <Date> <Node> <Time> <NodeRepeat> <Type> <Component> <Level> <Content>',
-        'regex': [r'core\.\d+']  
+        'log_format': '<Label> <Timestamp> <Date> <Node> <Time> <NodeRepeat> <Type> <Component> <Level> <Content>'
         },
 
     'HPC': {
-        'log_format': '<LogId> <Node> <Component> <State> <Time> <Flag> <Content>',
-        'regex': [r'=\d+']
+        'log_format': '<LogId> <Node> <Component> <State> <Time> <Flag> <Content>'
         },
 
     'Thunderbird': {
-        'log_format': '<Label> <Timestamp> <Date> <User> <Month> <Day> <Time> <Location> <Component>(\[<PID>\])?: <Content>',
-        'regex': [r'(\d+\.){3}\d+']   
+        'log_format': '<Label> <Timestamp> <Date> <User> <Month> <Day> <Time> <Location> <Component>(\[<PID>\])?: <Content>'
         },
 
     'Windows': {
-        'log_format': '<Date> <Time>, <Level>                  <Component>    <Content>',
-        'regex': [r'0x.*?\s']
+        'log_format': '<Date> <Time> <Level>                  <Component>    <Content>'
         },
 
     'Linux': {
-        'log_format': '<Month> <Date> <Time> <Level> <Component>(\[<PID>\])?: <Content>',
-        'regex': [r'(\d+\.){3}\d+', r'\d{2}:\d{2}:\d{2}']  
+        'log_format': '<Month> <Date> <Time> <Level> <Component>(\[<PID>\])?: <Content>'
         },
 
     'Android': {
-        'log_format': '<Date> <Time>  <Pid>  <Tid> <Level> <Component>: <Content>',
-        'regex': [r'(/[\w-]+)+', r'([\w-]+\.){2,}[\w-]+', r'\b(\-?\+?\d+)\b|\b0[Xx][a-fA-F\d]+\b|\b[a-fA-F\d]{4,}\b']
+        'log_format': '<Date> <Time>  <Pid>  <Tid> <Level> <Component>: <Content>'
         },
 
     'HealthApp': {
-        'log_format': '<Time>\|<Component>\|<Pid>\|<Content>',
-        'regex': []
+        'log_format': '<Time>\|<Component>\|<Pid>\|<Content>'
         },
 
     'Apache': {
-        'log_format': '\[<Time>\] \[<Level>\] <Content>',
-        'regex': [r'(\d+\.){3}\d+']
+        'log_format': '\[<Time>\] \[<Level>\] <Content>'
         },
 
     'Proxifier': {
-        'log_format': '\[<Time>\] <Program> - <Content>',
-        'regex': [r'<\d+\ssec', r'([\w-]+\.)+[\w-]+(:\d+)?', r'\d{2}:\d{2}(:\d{2})*', r'[KGTM]B']
+        'log_format': '\[<Time>\] <Program> - <Content>'
         },
 
     'OpenSSH': {
-        'log_format': '<Date> <Day> <Time> <Component> sshd\[<Pid>\]: <Content>',
-        'regex': [r'(\d+\.){3}\d+', r'([\w-]+\.){2,}[\w-]+']
+        'log_format': '<Date> <Day> <Time> <Component> sshd\[<Pid>\]: <Content>'
         },
 
     'OpenStack': {
-        'log_format': '<Logrecord> <Date> <Time> <Pid> <Level> <Component> \[<ADDR>\] <Content>',
-        'regex': [r'((\d+\.){3}\d+,?)+', r'/.+?\s', r'\d+']
+        'log_format': '<Logrecord> <Date> <Time> <Pid> <Level> <Component> \[<ADDR>\] <Content>'
         },
 
     'Mac': {
-        'log_format': '<Month>  <Date> <Time> <User> <Component>\[<PID>\]( \(<Address>\))?: <Content>',
-        'regex': [r'([\w-]+\.){2,}[\w-]+']
+        'log_format': '<Month>  <Date> <Time> <User> <Component>\[<PID>\]( \(<Address>\))?: <Content>'
         },
 
     'W3C Extended' : {
-        'log_format': ['date', 'time', 'c-ip', 'c-port', 'cs-username', 'cs-method', 'cs-uri-stem', 'cs-uri-query', 'sc-status', 'sc-bytes', 'cs-bytes', 's-name', 's-port'],
-        #'log_format': ['Time', 'Client IP Address', 'Method', 'URI Stem', 'HTTP Status', 'HTTP Version'],
-        'regex': [r'[\S]+']
+        'log_format': '<date> <time> <c-ip> <c-port> <cs-username> <cs-method> <cs-uri-stem> <cs-uri-query> <sc-status> <sc-bytes> <cs-bytes> <s-name> <s-port>'
+        #'log_format': ['Time', 'Client IP Address', 'Method', 'URI Stem', 'HTTP Status', 'HTTP Version']
     },
 
     'NCSA Common' : {
         
-        'log_format': ['Host', 'Identity', 'Authuser', 'Date', 'Request', 'Status', 'Bytes'],
-        'regex': [r'[\S]+']
+        'log_format': '<Host> <Identity> <Authuser> \[<Date>\] \\\<Request>\\\ <Status> <Bytes>'
 
     },
 
     'NCSA Combined' : {
         
-        'log_format': ['Host', 'Identity', 'Authuser', 'Date', 'Request', 'Status', 'Bytes', 'Referrer', 'User Agent', 'Cookie'],
-        'regex': [r'[\S]+']
+        'log_format': '<Host> <Identity> <Authuser> \[<Date>\] \\\<Request>\\\ <Status> <Bytes> \\\<Referrer>\\\ \\\<User_Agent>'#<Cookie>'
 
     },
 
     'Microsoft IIS' : {
-        'log_format': ['date', 'time', 'c-ip', 'cs-username','s-ip', 'cs-method', 'cs-uri-stem', 'cs-uri-query', 'sc-status', 'sc-bytes', 'cs-bytes', 'time-taken', 'cs-version', 'cs(User-Agent)', 'cs(Cookie)', 'cs(Referrer)'],
-        'regex': [r'[\S]+']
+                #Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+        # 'log_format': '<date> <time> <s-ip> <cs-method> <cs-uri-stem> <cs-uri-query> <s-port> <cs-username> <c-ip> <cs(User-Agent)> <cs(Referrer)> <sc-status> <sc-substatus> <sc-win32-status> <time-taken>'
+        'log_format': '<date> <time> <c_ip> <cs_username> <s_ip> <cs_method> <cs_uri_stem> <cs_uri_query> <sc_status> <sc_bytes> <cs_bytes> <time_taken> <cs_version> <cs_User_Agent> <cs_Cookie> <cs_Referrer>'
     },
 
     'Others': {
     'log_format': ['Component1', 'Component2', 'Component3','Component4'],
     'regex': [r'[\S]+']
-    }
+    },
+
+    'Error': {
+        'log_format':'\[<Time>\] \[<Level>\] \[<Address>\] <Content>'
+    },
+
+    'Log4j' : 
+    {
+        #'log_format':'<Time>-<Thread>--<Level>-<Logger>:<Content>'
+        'log_format':'<Time> \[<Thread>\] <Level> <Logger> - <Content>'
+    },
 }

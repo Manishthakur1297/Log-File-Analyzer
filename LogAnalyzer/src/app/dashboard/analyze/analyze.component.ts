@@ -26,4 +26,19 @@ export class AnalyzeComponent implements OnInit {
       this.file_format = this.response[1];
   }
 
+  getColor(err) {
+    console.log(err)
+    var s:string = err.toLowerCase();
+    switch (s) {
+      case "error":
+        return "green";
+      case "notice":
+        return "blue";
+      case "fatal":
+        return "red";
+      default:
+        return "orange"
+    }
+  }
+
 }

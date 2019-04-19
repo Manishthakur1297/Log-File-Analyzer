@@ -1,0 +1,4 @@
+127.0.0.1 - frank [10/Oct/2000:13:55:36 -0700] "GET /apache_pb.gif HTTP/1.0" 200 2326
+127.0.0.1 - - [19/Apr/2019 14:38:02] "POST /readFile/ HTTP/1.1" 500 -
+127.0.0.1 - - [19/Apr/2019 15:28:13] "POST /readFile/ HTTP/1.1" 200 -
+172.21.13.45 — REDMOND\fred [08/Apr/1997:17:39:04 -0800] "GET /scripts/iisadmin/ism.dll?http/serv HTTP/1.0" 200 3401

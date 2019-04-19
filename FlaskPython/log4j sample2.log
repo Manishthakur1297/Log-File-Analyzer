@@ -1,0 +1,8 @@
+17:13:01.540 [main] TRACE MyApp - Entering application.
+17:13:01.540 [main] TRACE com.foo.Bar - entry
+17:13:01.540 [main] ERROR com.foo.Bar - Did it again!
+17:13:01.540 [main] TRACE com.foo.Bar - exit with (false)
+17:13:01.540 [main] ERROR MyApp - Didn't do it.
+17:13:01.540 [main] TRACE MyApp - Exiting application.
+17:13:01.540 [main] ERROR com.foo.Bar - Did it again!
+17:13:01.540 [main] ERROR MyApp - Didn't do it.

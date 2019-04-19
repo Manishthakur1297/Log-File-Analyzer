@@ -67,7 +67,7 @@ export class VisualizeComponent implements OnInit {
 
     this.res = this.rs.responseData;
     this.file_format = this.res[1];
-    this.column = this.file_format[0];
+    this.column = this.file_format[2];
     this.onColumnChange(this.column);
   }
 

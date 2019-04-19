@@ -51,14 +51,14 @@ class LogParser:
         with open(log_file, 'r') as fin:
             for line in fin.readlines():
                 try:
-                    print("Line = ",line)
+                    #print("Line = ",line)
                     match = regex.search(line.strip())
-                    print("Match = ",match)
+                    #print("Match = ",match)
                     message = [match.group(header) for header in headers]
-                    print("Message = ",message)
+                    #print("Message = ",message)
                     log_messages.append(message)
                     linecount += 1
-                    break;
+                    #break
                 except Exception as e:
                     print("Error",e)
         logdf = pd.DataFrame(log_messages, columns=headers)
@@ -67,15 +67,8 @@ class LogParser:
         logdf.to_csv(log_file+"_structured.csv", sep=',', encoding='utf-8', index=False)
         return logdf
 
-log_file   = 'Andriod_2k.log'
-log_format = '<Date> <Time>  <Pid>  <Tid> <Level> <Component>: <Content>'
-#regex = [r'(/[\w-]+)+', r'([\w-]+\.){2,}[\w-]+', r'\b(\-?\+?\d+)\b|\b0[Xx][a-fA-F\d]+\b|\b[a-fA-F\d]{4,}\b']
-# log_format = '<Month>  <Date> <Time> <User> <Component>\[<PID>\]( \(<Address>\))?: <Content>'
-# regex      = [
-#     r'blk_(|-)[0-9]+' , # block id
-#     r'(/|)([0-9]+\.){3}[0-9]+(:[0-9]+|)(:|)', # IP
-#     r'(?<=[^A-Za-z0-9])(\-?\+?\d+)(?=[^A-Za-z0-9])|[0-9]+$', # Numbers
-# ]
+log_file   = 'Windows.log'
+log_format = '<Date> <Time>, <Level>                  <Component>    <Content>'
 
 parser = LogParser(log_format)
 parser.parse(log_file)

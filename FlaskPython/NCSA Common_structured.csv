@@ -1,0 +1,1242 @@
+LineId,Host,Identity,Authuser,Date,Request,Status,Bytes
+1,66.102.6.79,-,-,16/Apr/2019:17:46:07 +0530,GET /aa/upload.php HTTP/1.1,200,- \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+2,66.102.6.81,-,-,16/Apr/2019:17:46:09 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+3,157.55.39.188,-,-,16/Apr/2019:18:33:09 +0530,GET /chauranka/ HTTP/1.1,200,1142 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+4,1.23.40.119,-,-,16/Apr/2019:18:58:07 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+5,1.23.40.119,-,-,16/Apr/2019:18:58:09 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+6,1.23.40.119,-,-,16/Apr/2019:19:15:38 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+7,1.23.40.119,-,-,16/Apr/2019:19:15:40 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+8,1.23.40.119,-,-,16/Apr/2019:19:16:16 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+9,40.77.167.14,-,-,16/Apr/2019:19:16:32 +0530,GET /abhinav/ HTTP/1.1,200,1138 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+10,40.77.167.80,-,-,16/Apr/2019:19:31:42 +0530,GET /devasnhu/fconnect.php HTTP/1.1,200,- \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+11,207.46.13.77,-,-,16/Apr/2019:19:47:52 +0530,GET /vikasabesit/ HTTP/1.1,200,1146 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+12,1.23.40.119,-,-,16/Apr/2019:20:13:04 +0530,GET /aa/getuser.php HTTP/1.1,200,20664 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+13,1.23.97.198,-,-,16/Apr/2019:20:48:44 +0530,GET /aa/getuser.php HTTP/1.1,200,20664 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+14,1.23.97.198,-,-,16/Apr/2019:20:54:26 +0530,GET /aa/getuser.php HTTP/1.1,200,20664 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+15,207.46.13.77,-,-,16/Apr/2019:21:02:00 +0530,GET /saumya/ HTTP/1.1,200,1872 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+16,47.30.247.254,-,-,16/Apr/2019:21:17:38 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,155 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; JSN-L42 Build/HONORJSN-L42)\
+17,47.30.247.254,-,-,16/Apr/2019:21:17:40 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; JSN-L42 Build/HONORJSN-L42)\
+18,47.30.247.254,-,-,16/Apr/2019:21:17:40 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; JSN-L42 Build/HONORJSN-L42)\
+19,66.102.6.80,-,-,16/Apr/2019:21:51:05 +0530,GET /a/math.json HTTP/1.1,200,984 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+20,66.102.6.80,-,-,16/Apr/2019:21:51:06 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+21,27.6.212.218,-,-,16/Apr/2019:21:58:07 +0530,GET /rajat/testapi/index.php/Home/login?email=Naveen@gmail.com&password=12345 HTTP/1.1,200,55 \-\ \okhttp/3.12.1\
+22,27.6.212.218,-,-,16/Apr/2019:21:58:09 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+23,27.6.212.218,-,-,16/Apr/2019:22:01:03 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+24,27.6.212.218,-,-,16/Apr/2019:22:02:32 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+25,1.23.97.198,-,-,16/Apr/2019:22:02:48 +0530,GET /aa/getuser.php HTTP/1.1,200,20664 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+26,27.6.212.218,-,-,16/Apr/2019:22:04:01 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+27,27.6.212.218,-,-,16/Apr/2019:22:04:09 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+28,27.6.212.218,-,-,16/Apr/2019:22:04:55 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+29,27.6.212.218,-,-,16/Apr/2019:22:05:29 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+30,27.6.212.218,-,-,16/Apr/2019:22:06:24 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+31,27.6.212.218,-,-,16/Apr/2019:22:06:35 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+32,1.23.97.198,-,-,16/Apr/2019:22:06:59 +0530,POST /aa/fragment.php HTTP/1.1,200,17 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+33,27.6.212.218,-,-,16/Apr/2019:22:08:22 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+34,27.6.212.218,-,-,16/Apr/2019:22:08:41 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+35,27.6.212.218,-,-,16/Apr/2019:22:14:28 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+36,27.6.212.218,-,-,16/Apr/2019:22:15:13 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+37,27.6.212.218,-,-,16/Apr/2019:22:16:11 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+38,27.6.212.218,-,-,16/Apr/2019:22:16:33 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+39,1.23.97.198,-,-,16/Apr/2019:22:17:03 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,212 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+40,1.23.97.198,-,-,16/Apr/2019:22:17:15 +0530,POST /aa/login.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+41,1.23.97.198,-,-,16/Apr/2019:22:17:18 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+42,1.23.97.198,-,-,16/Apr/2019:22:17:18 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+43,1.23.97.198,-,-,16/Apr/2019:22:17:20 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+44,1.23.97.198,-,-,16/Apr/2019:22:17:21 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+45,1.23.97.198,-,-,16/Apr/2019:22:17:24 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+46,1.23.97.198,-,-,16/Apr/2019:22:17:24 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+47,1.23.97.198,-,-,16/Apr/2019:22:17:26 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+48,1.23.97.198,-,-,16/Apr/2019:22:17:26 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+49,1.23.97.198,-,-,16/Apr/2019:22:17:36 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+50,1.23.97.198,-,-,16/Apr/2019:22:17:36 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+51,1.23.97.198,-,-,16/Apr/2019:22:17:40 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+52,1.23.97.198,-,-,16/Apr/2019:22:17:40 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+53,1.23.97.198,-,-,16/Apr/2019:22:17:42 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+54,1.23.97.198,-,-,16/Apr/2019:22:17:44 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+55,1.23.97.198,-,-,16/Apr/2019:22:17:44 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+56,1.23.97.198,-,-,16/Apr/2019:22:17:49 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+57,1.23.97.198,-,-,16/Apr/2019:22:17:51 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+58,1.23.97.198,-,-,16/Apr/2019:22:18:15 +0530,POST /aa/fragment.php HTTP/1.1,200,17 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+59,1.23.97.198,-,-,16/Apr/2019:22:18:22 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+60,1.23.97.198,-,-,16/Apr/2019:22:18:24 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+61,1.23.97.198,-,-,16/Apr/2019:22:18:24 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+62,1.23.97.198,-,-,16/Apr/2019:22:18:25 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+63,1.23.97.198,-,-,16/Apr/2019:22:18:31 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+64,1.23.97.198,-,-,16/Apr/2019:22:18:32 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+65,1.23.97.198,-,-,16/Apr/2019:22:18:32 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+66,1.23.97.198,-,-,16/Apr/2019:22:18:33 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+67,1.23.97.198,-,-,16/Apr/2019:22:18:33 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+68,1.23.97.198,-,-,16/Apr/2019:22:18:34 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+69,1.23.97.198,-,-,16/Apr/2019:22:18:36 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+70,1.23.97.198,-,-,16/Apr/2019:22:18:36 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+71,1.23.97.198,-,-,16/Apr/2019:22:18:36 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+72,27.6.212.218,-,-,16/Apr/2019:22:19:37 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+73,27.6.212.218,-,-,16/Apr/2019:22:20:30 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+74,27.6.212.218,-,-,16/Apr/2019:22:21:44 +0530,GET /rajat/testapi/index.php/Home/show HTTP/1.1,200,3460 \-\ \okhttp/3.12.1\
+75,27.6.212.218,-,-,16/Apr/2019:22:21:45 +0530,GET /rajat/testapi/assets/image/ HTTP/1.1,200,3722 \-\ \okhttp/3.12.1\
+76,27.6.212.218,-,-,16/Apr/2019:22:21:45 +0530,GET /rajat/testapi/assets/image/4292813-IMG201904132335101.jpg HTTP/1.1,200,5591691 \-\ \okhttp/3.12.1\
+77,27.6.212.218,-,-,16/Apr/2019:22:21:46 +0530,GET /rajat/testapi/assets/image/7230136-IMG-20190411-WA0003.jpg HTTP/1.1,200,83552 \-\ \okhttp/3.12.1\
+78,27.6.212.218,-,-,16/Apr/2019:22:21:47 +0530,GET /rajat/testapi/assets/image/1703678-winningstreak1553864940084.png.jpg HTTP/1.1,200,82480 \-\ \okhttp/3.12.1\
+79,27.6.212.218,-,-,16/Apr/2019:22:21:47 +0530,GET /rajat/testapi/assets/image/4232027-FBIMG15495150910292557.jpg HTTP/1.1,200,317543 \-\ \okhttp/3.12.1\
+80,27.6.212.218,-,-,16/Apr/2019:22:21:47 +0530,GET /rajat/testapi/assets/image/3299217-IMG-20190412-WA0000.jpg HTTP/1.1,200,26371 \-\ \okhttp/3.12.1\
+81,27.6.212.218,-,-,16/Apr/2019:22:21:47 +0530,GET /rajat/testapi/assets/image/4612908-IMG-20190413-WA0001.jpg HTTP/1.1,200,124596 \-\ \okhttp/3.12.1\
+82,27.6.212.218,-,-,16/Apr/2019:22:21:47 +0530,GET /rajat/testapi/assets/image/5900380-IMG-20190313-WA0000.jpg HTTP/1.1,200,269717 \-\ \okhttp/3.12.1\
+83,27.6.212.218,-,-,16/Apr/2019:22:21:45 +0530,GET /rajat/testapi/assets/image/4739284-IMG201904132335101.jpg HTTP/1.1,200,5591691 \-\ \okhttp/3.12.1\
+84,27.6.212.218,-,-,16/Apr/2019:22:22:22 +0530,GET /rajat/testapi/index.php/Home/login?email=Naveen@gmail.com&password=12345 HTTP/1.1,200,55 \-\ \okhttp/3.12.1\
+85,27.6.212.218,-,-,16/Apr/2019:22:22:23 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+86,27.6.212.218,-,-,16/Apr/2019:22:22:33 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+87,27.6.212.218,-,-,16/Apr/2019:22:23:20 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+88,27.6.212.218,-,-,16/Apr/2019:22:25:34 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+89,109.201.154.222,-,-,16/Apr/2019:22:26:10 +0530,HEAD / HTTP/1.1,200,- \https://uptime.com/searchkero.com\ \Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)\
+90,27.6.212.218,-,-,16/Apr/2019:22:33:47 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+91,27.6.212.218,-,-,16/Apr/2019:22:36:07 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+92,47.30.213.78,-,-,16/Apr/2019:22:39:49 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+93,47.30.213.78,-,-,16/Apr/2019:22:39:53 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+94,47.30.213.78,-,-,16/Apr/2019:22:40:16 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+95,27.6.212.218,-,-,16/Apr/2019:22:47:23 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+96,27.6.212.218,-,-,16/Apr/2019:22:48:18 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+97,27.6.212.218,-,-,16/Apr/2019:22:50:12 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+98,27.6.212.218,-,-,16/Apr/2019:22:50:18 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+99,27.6.212.218,-,-,16/Apr/2019:22:51:25 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+100,27.6.212.218,-,-,16/Apr/2019:22:56:30 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+101,40.77.167.124,-,-,16/Apr/2019:23:05:59 +0530,GET /s_kumar/connect.php HTTP/1.1,200,62 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+102,40.77.167.185,-,-,16/Apr/2019:23:06:13 +0530,GET /jokes/ HTTP/1.1,200,1134 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+103,40.77.167.52,-,-,16/Apr/2019:23:06:17 +0530,GET /anxar/ HTTP/1.1,200,964 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+104,40.77.167.124,-,-,16/Apr/2019:23:06:22 +0530,GET /car_port/ HTTP/1.1,200,1147 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+105,47.30.222.73,-,-,16/Apr/2019:23:06:53 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+106,47.30.222.73,-,-,16/Apr/2019:23:07:01 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+107,47.30.222.73,-,-,16/Apr/2019:23:07:07 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+108,47.30.222.73,-,-,16/Apr/2019:23:07:36 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+109,47.30.222.73,-,-,16/Apr/2019:23:07:41 +0530,POST /aa/getuser.php HTTP/1.1,200,20664 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+110,106.51.252.234,-,-,17/Apr/2019:00:27:49 +0530,GET /cpanel HTTP/1.1,200,33883 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.117 Safari/537.36\
+111,66.102.6.79,-,-,17/Apr/2019:00:34:13 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+112,157.55.39.143,-,-,17/Apr/2019:00:38:31 +0530,GET /GS/ HTTP/1.1,200,1493 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+113,49.14.133.200,-,-,17/Apr/2019:00:39:28 +0530,GET /seven/portal/register.php HTTP/1.1,200,1341 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+114,49.14.133.200,-,-,17/Apr/2019:00:39:29 +0530,GET /favicon.ico HTTP/1.1,404,613 \http://searchkero.com/seven/portal/register.php\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+115,49.14.133.200,-,-,17/Apr/2019:00:44:07 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,231 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+116,49.14.133.200,-,-,17/Apr/2019:00:46:54 +0530,GET /portal/login.php HTTP/1.1,500,- \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+117,49.14.133.200,-,-,17/Apr/2019:00:47:01 +0530,GET /portal/login.php HTTP/1.1,500,- \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+118,49.14.133.200,-,-,17/Apr/2019:00:47:13 +0530,GET /portal/register.php HTTP/1.1,200,22 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+119,49.14.133.200,-,-,17/Apr/2019:00:48:42 +0530,GET /portal/login.php HTTP/1.1,200,9 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+120,49.14.133.200,-,-,17/Apr/2019:00:49:04 +0530,GET /portal/login.php HTTP/1.1,200,9 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+121,157.55.39.140,-,-,17/Apr/2019:00:59:18 +0530,GET /paa12/ HTTP/1.1,200,1497 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+122,47.31.126.226,-,-,17/Apr/2019:01:03:53 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+123,47.31.126.226,-,-,17/Apr/2019:01:05:27 +0530,GET /rajat/testapi/index.php/Home/login?email=Naveen@gmail.com&password=12345 HTTP/1.1,200,55 \-\ \okhttp/3.12.1\
+124,47.31.126.226,-,-,17/Apr/2019:01:05:29 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+125,47.31.126.226,-,-,17/Apr/2019:01:06:43 +0530,GET /rajat/testapi/index.php/Home/login?email=Naveen@gmail.com&password=12345 HTTP/1.1,200,55 \-\ \okhttp/3.12.1\
+126,47.31.126.226,-,-,17/Apr/2019:01:06:46 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+127,47.31.126.226,-,-,17/Apr/2019:01:12:04 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+128,47.31.126.226,-,-,17/Apr/2019:01:13:44 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+129,47.31.126.226,-,-,17/Apr/2019:01:13:55 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+130,47.31.126.226,-,-,17/Apr/2019:01:17:42 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+131,47.31.126.226,-,-,17/Apr/2019:01:18:02 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+132,47.31.126.226,-,-,17/Apr/2019:01:22:59 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+133,49.14.133.200,-,-,17/Apr/2019:01:29:29 +0530,POST /portal/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+134,49.14.133.200,-,-,17/Apr/2019:01:29:33 +0530,POST /portal/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+135,49.14.133.200,-,-,17/Apr/2019:01:29:39 +0530,POST /portal/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+136,49.14.133.200,-,-,17/Apr/2019:01:31:13 +0530,POST /portal/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+137,49.14.133.200,-,-,17/Apr/2019:01:39:09 +0530,POST /portal/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+138,49.14.133.200,-,-,17/Apr/2019:01:39:14 +0530,POST /portal/register.php HTTP/1.1,200,37 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+139,49.14.133.200,-,-,17/Apr/2019:01:39:23 +0530,POST /portal/register.php HTTP/1.1,200,37 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+140,49.14.133.200,-,-,17/Apr/2019:01:39:23 +0530,POST /portal/register.php HTTP/1.1,200,37 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+141,49.14.133.200,-,-,17/Apr/2019:01:39:23 +0530,POST /portal/register.php HTTP/1.1,200,37 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+142,49.14.133.200,-,-,17/Apr/2019:01:39:46 +0530,POST /portal/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+143,49.14.133.200,-,-,17/Apr/2019:01:39:56 +0530,POST /portal/register.php HTTP/1.1,200,37 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+144,49.14.133.200,-,-,17/Apr/2019:01:40:41 +0530,GET /portal/register.php HTTP/1.1,200,22 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+145,49.14.133.200,-,-,17/Apr/2019:01:40:44 +0530,GET /portal/register.php HTTP/1.1,200,37 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+146,49.14.133.200,-,-,17/Apr/2019:01:40:49 +0530,GET /portal/register.php HTTP/1.1,200,37 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+147,49.14.133.200,-,-,17/Apr/2019:01:40:50 +0530,GET /portal/register.php HTTP/1.1,200,37 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+148,49.14.133.200,-,-,17/Apr/2019:01:47:37 +0530,POST /portal/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+149,207.46.13.45,-,-,17/Apr/2019:01:53:08 +0530,GET /coding/ HTTP/1.1,200,1446 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+150,49.14.133.200,-,-,17/Apr/2019:01:54:57 +0530,POST /portal/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+151,49.14.133.200,-,-,17/Apr/2019:01:55:02 +0530,POST /portal/register.php HTTP/1.1,200,37 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+152,49.14.133.200,-,-,17/Apr/2019:02:02:07 +0530,GET /portal/register.php HTTP/1.1,200,37 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+153,49.14.133.200,-,-,17/Apr/2019:02:02:11 +0530,GET /portal/register.php HTTP/1.1,200,37 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+154,49.14.133.200,-,-,17/Apr/2019:02:02:13 +0530,GET /portal/register.php HTTP/1.1,200,37 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+155,49.14.133.200,-,-,17/Apr/2019:02:02:15 +0530,GET /portal/register.php HTTP/1.1,200,37 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+156,49.14.133.200,-,-,17/Apr/2019:02:02:16 +0530,GET /portal/register.php HTTP/1.1,200,37 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+157,49.14.133.200,-,-,17/Apr/2019:02:02:17 +0530,GET /portal/register.php HTTP/1.1,200,37 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+158,49.14.133.200,-,-,17/Apr/2019:02:02:18 +0530,GET /portal/register.php HTTP/1.1,200,37 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+159,49.14.133.200,-,-,17/Apr/2019:02:03:40 +0530,POST /portal/register.php HTTP/1.1,200,13 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+160,49.14.133.200,-,-,17/Apr/2019:02:03:45 +0530,POST /portal/register.php HTTP/1.1,200,37 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+161,49.14.133.200,-,-,17/Apr/2019:02:04:06 +0530,POST /portal/register.php HTTP/1.1,200,13 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+162,49.14.133.200,-,-,17/Apr/2019:02:05:04 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,231 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+163,49.14.133.200,-,-,17/Apr/2019:02:18:10 +0530,GET /seven/portal/register.php HTTP/1.1,200,1400 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+164,49.14.133.200,-,-,17/Apr/2019:02:19:57 +0530,POST /seven/portal/register.php HTTP/1.1,200,1491 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+165,49.14.133.200,-,-,17/Apr/2019:02:20:11 +0530,POST /seven/portal/register.php HTTP/1.1,200,1582 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+166,49.14.133.200,-,-,17/Apr/2019:02:20:36 +0530,GET /seven/portal/register.php HTTP/1.1,200,1641 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+167,49.14.133.200,-,-,17/Apr/2019:02:24:37 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,323 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+168,139.167.232.73,-,-,17/Apr/2019:02:44:59 +0530,GET /bilal/insert.php HTTP/1.1,200,17 \-\ \Java/1.8.0_121\
+169,49.15.230.87,-,-,17/Apr/2019:02:47:07 +0530,GET /seven/portal/register.php HTTP/1.1,200,1700 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+170,49.15.230.87,-,-,17/Apr/2019:02:56:11 +0530,POST /portal/fetchjobs.php HTTP/1.1,200,2802 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+171,49.15.230.87,-,-,17/Apr/2019:02:56:13 +0530,POST /portal/fetchjobs.php HTTP/1.1,200,2802 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+172,49.15.230.87,-,-,17/Apr/2019:02:56:38 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,369 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+173,49.15.230.87,-,-,17/Apr/2019:02:57:02 +0530,POST /portal/fetchjobs.php HTTP/1.1,200,2802 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+174,49.15.230.87,-,-,17/Apr/2019:02:57:21 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,369 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+175,49.15.230.87,-,-,17/Apr/2019:02:58:43 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,369 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+176,49.15.230.87,-,-,17/Apr/2019:03:08:15 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+177,49.15.230.87,-,-,17/Apr/2019:03:14:17 +0530,POST /seven/portal/register.php HTTP/1.1,200,1779 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+178,49.15.230.87,-,-,17/Apr/2019:03:14:41 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+179,49.15.230.87,-,-,17/Apr/2019:03:14:47 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+180,49.15.230.87,-,-,17/Apr/2019:03:15:04 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+181,49.15.230.87,-,-,17/Apr/2019:03:15:17 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+182,157.55.39.198,-,-,17/Apr/2019:03:18:09 +0530,GET /akmsit/ HTTP/1.1,200,1136 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+183,49.15.230.87,-,-,17/Apr/2019:03:20:08 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+184,49.15.230.87,-,-,17/Apr/2019:03:20:10 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+185,49.15.230.87,-,-,17/Apr/2019:03:20:10 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+186,49.15.230.87,-,-,17/Apr/2019:03:20:11 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+187,49.15.230.87,-,-,17/Apr/2019:03:20:11 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+188,49.15.230.87,-,-,17/Apr/2019:03:20:11 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+189,49.15.230.87,-,-,17/Apr/2019:03:20:58 +0530,POST /seven/portal/register.php HTTP/1.1,200,1844 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+190,49.15.230.87,-,-,17/Apr/2019:03:21:11 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+191,49.15.230.87,-,-,17/Apr/2019:03:21:16 +0530,GET /seven/portal/register.php HTTP/1.1,200,1903 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+192,49.15.230.87,-,-,17/Apr/2019:03:21:22 +0530,GET /seven/portal/register.php HTTP/1.1,200,1962 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+193,49.15.230.87,-,-,17/Apr/2019:03:21:32 +0530,GET /seven/portal/register.php HTTP/1.1,200,2021 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+194,49.15.230.87,-,-,17/Apr/2019:03:21:48 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+195,49.15.230.87,-,-,17/Apr/2019:03:21:52 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+196,49.15.230.87,-,-,17/Apr/2019:03:21:53 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+197,49.15.230.87,-,-,17/Apr/2019:03:21:53 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+198,49.15.230.87,-,-,17/Apr/2019:03:21:53 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+199,49.15.230.87,-,-,17/Apr/2019:03:21:53 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+200,49.15.230.87,-,-,17/Apr/2019:03:22:22 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,4 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+201,49.15.230.87,-,-,17/Apr/2019:03:22:26 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,4 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+202,49.15.230.87,-,-,17/Apr/2019:03:22:37 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,4 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+203,49.15.230.87,-,-,17/Apr/2019:03:23:04 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,16 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+204,49.15.230.87,-,-,17/Apr/2019:03:23:15 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+205,49.15.230.87,-,-,17/Apr/2019:03:23:29 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,16 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+206,49.15.230.87,-,-,17/Apr/2019:03:23:51 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+207,49.15.230.87,-,-,17/Apr/2019:03:24:10 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+208,49.15.230.87,-,-,17/Apr/2019:03:24:29 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+209,49.15.230.87,-,-,17/Apr/2019:03:24:45 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,16 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+210,49.15.230.87,-,-,17/Apr/2019:03:24:45 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,16 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+211,49.15.230.87,-,-,17/Apr/2019:03:24:45 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,16 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+212,49.15.230.87,-,-,17/Apr/2019:03:27:42 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+213,49.15.230.87,-,-,17/Apr/2019:03:27:54 +0530,GET /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+214,207.46.13.45,-,-,17/Apr/2019:03:50:43 +0530,GET /HelloSQLF/connect.php HTTP/1.1,200,97 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+215,207.46.13.49,-,-,17/Apr/2019:04:01:08 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+216,207.46.13.49,-,-,17/Apr/2019:04:07:24 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+217,66.249.79.91,-,-,17/Apr/2019:05:09:00 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\
+218,66.249.79.91,-,-,17/Apr/2019:05:09:07 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Googlebot-Image/1.0\
+219,54.36.148.250,-,-,17/Apr/2019:05:13:24 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+220,54.36.148.145,-,-,17/Apr/2019:05:13:25 +0530,GET /kiran/UserTableInsertion.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+221,69.16.197.75,-,-,17/Apr/2019:05:40:02 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1\
+222,69.16.197.75,-,-,17/Apr/2019:05:40:03 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1\
+223,69.16.197.75,-,-,17/Apr/2019:05:40:04 +0530,POST /xmlrpc.php HTTP/1.1,404,- \-\ \Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1\
+224,207.46.13.55,-,-,17/Apr/2019:05:40:59 +0530,GET /Version/ HTTP/1.1,200,1138 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+225,54.36.150.114,-,-,17/Apr/2019:05:52:10 +0530,GET /AkashGupta/shadi_mubarak/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+226,54.36.150.129,-,-,17/Apr/2019:05:53:00 +0530,GET /akku007/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+227,54.36.148.130,-,-,17/Apr/2019:05:57:17 +0530,GET /Ritik_Ranjan/image_upload/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+228,54.36.149.22,-,-,17/Apr/2019:06:02:14 +0530,GET /AkashGupta/cobra/ HTTP/1.1,200,1352 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+229,14.143.227.210,-,-,17/Apr/2019:06:37:27 +0530,GET /aa/getuser.php HTTP/1.1,200,20664 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+230,47.31.78.186,-,-,17/Apr/2019:06:38:41 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \okhttp/3.12.0\
+231,14.143.227.210,-,-,17/Apr/2019:06:38:50 +0530,GET /aa/getuser.php HTTP/1.1,200,20771 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+232,47.31.75.205,-,-,17/Apr/2019:06:39:00 +0530,POST /aa/register.php HTTP/1.1,200,23 \-\ \okhttp/3.12.0\
+233,47.31.75.205,-,-,17/Apr/2019:06:39:02 +0530,POST /aa/register.php HTTP/1.1,200,23 \-\ \okhttp/3.12.0\
+234,47.31.75.205,-,-,17/Apr/2019:06:39:03 +0530,POST /aa/register.php HTTP/1.1,200,23 \-\ \okhttp/3.12.0\
+235,47.31.75.205,-,-,17/Apr/2019:06:39:03 +0530,POST /aa/register.php HTTP/1.1,200,23 \-\ \okhttp/3.12.0\
+236,47.31.75.205,-,-,17/Apr/2019:06:39:04 +0530,POST /aa/register.php HTTP/1.1,200,23 \-\ \okhttp/3.12.0\
+237,14.143.227.210,-,-,17/Apr/2019:06:39:06 +0530,GET /aa/getuser.php HTTP/1.1,200,20771 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+238,47.31.98.222,-,-,17/Apr/2019:06:46:36 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \okhttp/3.12.0\
+239,14.143.227.210,-,-,17/Apr/2019:06:46:47 +0530,GET /aa/getuser.php HTTP/1.1,200,20871 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+240,54.36.148.172,-,-,17/Apr/2019:07:08:11 +0530,GET /amit/fetchhostel.php HTTP/1.1,200,262 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+241,207.46.13.55,-,-,17/Apr/2019:07:16:17 +0530,GET /sarita/ HTTP/1.1,200,1876 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+242,47.31.99.237,-,-,17/Apr/2019:07:24:14 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \okhttp/3.12.0\
+243,47.31.99.237,-,-,17/Apr/2019:07:25:24 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \okhttp/3.12.0\
+244,54.36.150.75,-,-,17/Apr/2019:07:42:05 +0530,GET /Ritik_Ranjan/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+245,54.36.148.213,-,-,17/Apr/2019:08:01:14 +0530,GET /bsadmin/IOL/uploads/8.png HTTP/1.1,200,- \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+246,207.46.13.86,-,-,17/Apr/2019:08:09:19 +0530,GET /SYSM/ HTTP/1.1,200,1133 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+247,54.36.149.19,-,-,17/Apr/2019:08:09:43 +0530,GET /AkashGupta/sap/fetchh.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+248,207.46.13.86,-,-,17/Apr/2019:08:40:11 +0530,GET /infinityarya/ HTTP/1.1,200,5080 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+249,54.36.150.92,-,-,17/Apr/2019:09:03:01 +0530,GET /AkashGupta/imageload/ak_connect.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+250,207.46.13.86,-,-,17/Apr/2019:09:11:42 +0530,GET /sk/ HTTP/1.1,200,1130 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+251,54.36.148.134,-,-,17/Apr/2019:09:15:23 +0530,GET /gaurav/loan/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+252,54.36.148.125,-,-,17/Apr/2019:09:29:36 +0530,GET /bsadmin/DbHandler.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+253,157.55.39.94,-,-,17/Apr/2019:09:45:22 +0530,GET /prabhatrai HTTP/1.1,200,- \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+254,47.31.64.255,-,-,17/Apr/2019:09:55:35 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+255,47.31.64.255,-,-,17/Apr/2019:09:55:38 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+256,47.31.64.255,-,-,17/Apr/2019:09:55:38 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+257,47.31.64.255,-,-,17/Apr/2019:09:56:37 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+258,47.31.64.255,-,-,17/Apr/2019:09:56:39 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+259,47.31.64.255,-,-,17/Apr/2019:09:56:39 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+260,47.31.64.255,-,-,17/Apr/2019:09:56:43 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+261,47.31.64.255,-,-,17/Apr/2019:09:56:45 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+262,47.31.64.255,-,-,17/Apr/2019:09:56:45 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+263,47.31.64.255,-,-,17/Apr/2019:09:56:48 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+264,47.31.64.255,-,-,17/Apr/2019:09:56:49 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+265,47.31.64.255,-,-,17/Apr/2019:09:56:50 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+266,47.31.64.255,-,-,17/Apr/2019:09:56:52 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+267,47.31.64.255,-,-,17/Apr/2019:09:56:52 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+268,47.31.64.255,-,-,17/Apr/2019:09:56:55 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+269,54.36.150.146,-,-,17/Apr/2019:10:02:42 +0530,GET /gulshan/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+270,40.77.167.12,-,-,17/Apr/2019:10:02:49 +0530,GET /rajatmp/ HTTP/1.1,200,1674 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+271,54.36.149.5,-,-,17/Apr/2019:10:57:09 +0530,GET /AkashGupta/shadi/error_log HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+272,14.143.227.210,-,-,17/Apr/2019:11:08:26 +0530,GET /aa/test.json HTTP/1.1,200,1301 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+273,14.143.227.210,-,-,17/Apr/2019:11:08:42 +0530,GET /aa/test.json HTTP/1.1,304,- \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+274,14.143.227.210,-,-,17/Apr/2019:11:09:47 +0530,GET /aa/test.json HTTP/1.1,200,1303 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+275,207.46.13.86,-,-,17/Apr/2019:11:18:33 +0530,GET /aman843/ HTTP/1.1,200,1471 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+276,47.31.87.239,-,-,17/Apr/2019:11:22:36 +0530,GET /aa/test.json HTTP/1.1,200,1301 \-\ \okhttp/3.12.0\
+277,47.31.87.239,-,-,17/Apr/2019:11:23:14 +0530,GET /aa/test.json HTTP/1.1,200,1301 \-\ \okhttp/3.12.0\
+278,66.102.6.79,-,-,17/Apr/2019:11:32:02 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+279,66.102.6.81,-,-,17/Apr/2019:11:32:02 +0530,GET /Raman/connect.php HTTP/1.1,200,89 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+280,66.102.6.80,-,-,17/Apr/2019:11:32:02 +0530,GET /Rman/login.php HTTP/1.1,200,7 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+281,66.102.6.80,-,-,17/Apr/2019:11:32:02 +0530,GET /Rman/register.php HTTP/1.1,200,20 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+282,122.162.6.141,-,-,17/Apr/2019:11:33:37 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+283,122.162.6.141,-,-,17/Apr/2019:11:33:38 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+284,122.162.6.141,-,-,17/Apr/2019:11:33:38 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+285,122.162.6.141,-,-,17/Apr/2019:11:33:40 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+286,122.162.6.141,-,-,17/Apr/2019:11:33:40 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+287,122.162.6.141,-,-,17/Apr/2019:11:33:41 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+288,122.162.6.141,-,-,17/Apr/2019:11:33:44 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+289,122.162.6.141,-,-,17/Apr/2019:11:33:44 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+290,122.162.6.141,-,-,17/Apr/2019:11:33:51 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+291,122.162.6.141,-,-,17/Apr/2019:11:33:51 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+292,122.162.6.141,-,-,17/Apr/2019:11:33:55 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+293,122.162.6.141,-,-,17/Apr/2019:11:33:55 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+294,122.162.6.141,-,-,17/Apr/2019:11:33:55 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+295,122.162.6.141,-,-,17/Apr/2019:11:33:58 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+296,122.162.6.141,-,-,17/Apr/2019:11:33:58 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+297,122.162.6.141,-,-,17/Apr/2019:11:33:59 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+298,122.162.6.141,-,-,17/Apr/2019:11:34:00 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 6 Pro MIUI/V10.2.2.0.OEKMIXM)\
+299,207.46.13.86,-,-,17/Apr/2019:11:36:00 +0530,GET /gandharv/ HTTP/1.1,200,1140 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+300,54.36.150.6,-,-,17/Apr/2019:11:38:20 +0530,GET /prashant/crud/?C=M;O=A HTTP/1.1,200,1527 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+301,27.6.212.218,-,-,17/Apr/2019:11:38:35 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+302,27.6.212.218,-,-,17/Apr/2019:11:42:16 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+303,27.6.212.218,-,-,17/Apr/2019:11:43:48 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+304,54.36.148.97,-,-,17/Apr/2019:11:45:03 +0530,GET /Ritik_Ranjan/Picasso%20and%20Glide%20Try/c.jpg HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+305,27.6.212.218,-,-,17/Apr/2019:11:45:32 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+306,27.6.212.218,-,-,17/Apr/2019:11:46:51 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+307,27.6.212.218,-,-,17/Apr/2019:11:47:32 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+308,54.36.150.134,-,-,17/Apr/2019:11:48:11 +0530,GET /amit/connectme.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+309,27.6.212.218,-,-,17/Apr/2019:11:48:19 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+310,27.6.212.218,-,-,17/Apr/2019:11:49:00 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+311,27.6.212.218,-,-,17/Apr/2019:11:50:00 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+312,27.6.212.218,-,-,17/Apr/2019:11:56:19 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+313,27.6.212.218,-,-,17/Apr/2019:11:56:58 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+314,27.6.212.218,-,-,17/Apr/2019:11:57:26 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+315,27.6.212.218,-,-,17/Apr/2019:12:00:30 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+316,27.6.212.218,-,-,17/Apr/2019:12:01:00 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+317,27.6.212.218,-,-,17/Apr/2019:12:01:11 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+318,27.6.212.218,-,-,17/Apr/2019:12:01:16 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+319,27.6.212.218,-,-,17/Apr/2019:12:02:52 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+320,27.6.212.218,-,-,17/Apr/2019:12:05:12 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+321,27.6.212.218,-,-,17/Apr/2019:12:08:52 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+322,40.77.167.12,-,-,17/Apr/2019:12:10:20 +0530,GET /AksColData/ HTTP/1.1,200,2952 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+323,27.6.212.218,-,-,17/Apr/2019:12:24:50 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+324,207.46.13.86,-,-,17/Apr/2019:12:32:21 +0530,GET /tallu/ HTTP/1.1,200,1134 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+325,27.6.212.218,-,-,17/Apr/2019:12:39:58 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+326,27.6.212.218,-,-,17/Apr/2019:12:53:47 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+327,27.6.212.218,-,-,17/Apr/2019:12:54:34 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+328,27.6.212.218,-,-,17/Apr/2019:12:55:10 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+329,27.6.212.218,-,-,17/Apr/2019:12:55:51 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+330,27.6.212.218,-,-,17/Apr/2019:12:57:38 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+331,27.6.212.218,-,-,17/Apr/2019:12:57:57 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+332,27.6.212.218,-,-,17/Apr/2019:12:59:58 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+333,27.6.212.218,-,-,17/Apr/2019:13:02:11 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+334,27.6.212.218,-,-,17/Apr/2019:13:02:53 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+335,27.6.212.218,-,-,17/Apr/2019:13:03:51 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+336,54.36.148.245,-,-,17/Apr/2019:13:04:31 +0530,GET /gulkuwala/ankitwala/connect.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+337,27.6.212.218,-,-,17/Apr/2019:13:05:43 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+338,27.6.212.218,-,-,17/Apr/2019:13:06:27 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+339,27.6.212.218,-,-,17/Apr/2019:13:07:30 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+340,27.6.212.218,-,-,17/Apr/2019:13:08:20 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+341,27.6.212.218,-,-,17/Apr/2019:13:09:59 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+342,27.6.212.218,-,-,17/Apr/2019:13:10:05 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+343,27.6.212.218,-,-,17/Apr/2019:13:10:37 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+344,27.6.212.218,-,-,17/Apr/2019:13:10:59 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+345,54.36.148.237,-,-,17/Apr/2019:13:12:59 +0530,GET /Nimisha_Pundhir/Smile/smile_insert_thought.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+346,27.6.212.218,-,-,17/Apr/2019:13:13:55 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+347,27.6.212.218,-,-,17/Apr/2019:13:14:02 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+348,27.6.212.218,-,-,17/Apr/2019:13:16:29 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+349,47.30.221.65,-,-,17/Apr/2019:13:18:23 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+350,27.6.212.218,-,-,17/Apr/2019:13:18:58 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+351,106.199.105.26,-,-,17/Apr/2019:13:18:01 +0530,POST /aa/getuser.php HTTP/1.1,200,21063 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+352,106.199.105.26,-,-,17/Apr/2019:13:17:57 +0530,POST /aa/getuser.php HTTP/1.1,200,21063 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+353,27.6.212.218,-,-,17/Apr/2019:13:22:31 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+354,27.6.212.218,-,-,17/Apr/2019:13:26:15 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+355,27.6.212.218,-,-,17/Apr/2019:13:27:14 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+356,27.6.212.218,-,-,17/Apr/2019:13:28:16 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+357,27.6.212.218,-,-,17/Apr/2019:13:28:57 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+358,27.6.212.218,-,-,17/Apr/2019:13:30:37 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+359,27.6.212.218,-,-,17/Apr/2019:13:32:12 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+360,27.6.212.218,-,-,17/Apr/2019:13:34:18 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+361,27.6.212.218,-,-,17/Apr/2019:13:34:53 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+362,157.55.39.222,-,-,17/Apr/2019:13:36:19 +0530,GET /simran/ HTTP/1.1,200,1136 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+363,27.6.212.218,-,-,17/Apr/2019:13:36:32 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+364,27.6.212.218,-,-,17/Apr/2019:13:38:27 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+365,14.143.227.210,-,-,17/Apr/2019:13:46:44 +0530,GET /aa/getuser.php HTTP/1.1,200,21063 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+366,47.30.198.113,-,-,17/Apr/2019:13:46:58 +0530,POST /aa/getuser.php HTTP/1.1,200,21063 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+367,47.30.198.113,-,-,17/Apr/2019:13:47:11 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+368,47.30.198.113,-,-,17/Apr/2019:13:47:13 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+369,47.30.198.113,-,-,17/Apr/2019:13:47:13 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+370,47.30.198.113,-,-,17/Apr/2019:13:47:15 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+371,47.30.198.113,-,-,17/Apr/2019:13:47:16 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+372,47.30.198.113,-,-,17/Apr/2019:13:47:17 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+373,54.36.148.11,-,-,17/Apr/2019:13:47:19 +0530,GET /Shyam/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+374,157.55.39.174,-,-,17/Apr/2019:13:48:51 +0530,GET /vikas/ HTTP/1.1,200,1134 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+375,54.36.149.99,-,-,17/Apr/2019:13:54:04 +0530,GET /RastogiJi/error_log HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+376,14.143.227.210,-,-,17/Apr/2019:13:54:43 +0530,GET /aa/getuser.php HTTP/1.1,200,21063 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+377,27.6.212.218,-,-,17/Apr/2019:14:06:28 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+378,14.143.227.210,-,-,17/Apr/2019:14:06:59 +0530,GET /aa/getuser.php HTTP/1.1,200,21063 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+379,14.143.227.210,-,-,17/Apr/2019:14:07:03 +0530,GET /favicon.ico HTTP/1.1,404,613 \http://searchkero.com/aa/getuser.php\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+380,27.6.212.218,-,-,17/Apr/2019:14:07:57 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+381,157.55.39.224,-,-,17/Apr/2019:14:09:03 +0530,GET /bipi/ HTTP/1.1,200,955 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+382,27.6.212.218,-,-,17/Apr/2019:14:09:39 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+383,27.6.212.218,-,-,17/Apr/2019:14:09:54 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+384,27.6.212.218,-,-,17/Apr/2019:14:12:41 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+385,103.119.80.191,-,-,17/Apr/2019:14:13:24 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; ONEPLUS A6000 Build/PKQ1.180716.001)\
+386,103.119.80.191,-,-,17/Apr/2019:14:13:26 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; ONEPLUS A6000 Build/PKQ1.180716.001)\
+387,103.119.80.191,-,-,17/Apr/2019:14:13:27 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; ONEPLUS A6000 Build/PKQ1.180716.001)\
+388,103.119.80.191,-,-,17/Apr/2019:14:13:29 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; ONEPLUS A6000 Build/PKQ1.180716.001)\
+389,103.119.80.191,-,-,17/Apr/2019:14:13:29 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; ONEPLUS A6000 Build/PKQ1.180716.001)\
+390,27.6.212.218,-,-,17/Apr/2019:14:13:43 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+391,103.119.80.191,-,-,17/Apr/2019:14:13:44 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; ONEPLUS A6000 Build/PKQ1.180716.001)\
+392,103.119.80.191,-,-,17/Apr/2019:14:13:44 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; ONEPLUS A6000 Build/PKQ1.180716.001)\
+393,49.15.227.193,-,-,17/Apr/2019:14:13:45 +0530,POST /seven/portal/register.php HTTP/1.1,200,2091 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+394,49.15.227.193,-,-,17/Apr/2019:14:14:06 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+395,49.15.227.193,-,-,17/Apr/2019:14:14:15 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,16 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+396,27.6.212.218,-,-,17/Apr/2019:14:15:21 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+397,27.6.212.218,-,-,17/Apr/2019:14:15:53 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+398,27.6.212.218,-,-,17/Apr/2019:14:16:47 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+399,27.6.212.218,-,-,17/Apr/2019:14:17:36 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+400,27.6.212.218,-,-,17/Apr/2019:14:18:30 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+401,27.6.212.218,-,-,17/Apr/2019:14:19:06 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+402,27.6.212.218,-,-,17/Apr/2019:14:24:40 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+403,54.36.148.233,-,-,17/Apr/2019:14:27:32 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+404,27.6.212.218,-,-,17/Apr/2019:14:27:43 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+405,27.6.212.218,-,-,17/Apr/2019:14:28:28 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+406,27.6.212.218,-,-,17/Apr/2019:14:31:47 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+407,27.6.212.218,-,-,17/Apr/2019:14:32:52 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+408,27.6.212.218,-,-,17/Apr/2019:14:33:28 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+409,171.48.114.241,-,-,17/Apr/2019:14:35:30 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1859 Build/O11019)\
+410,171.48.114.241,-,-,17/Apr/2019:14:35:31 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1859 Build/O11019)\
+411,106.205.177.193,-,-,17/Apr/2019:14:35:31 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1859 Build/O11019)\
+412,171.48.114.241,-,-,17/Apr/2019:14:35:33 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1859 Build/O11019)\
+413,106.205.177.193,-,-,17/Apr/2019:14:35:33 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1859 Build/O11019)\
+414,171.48.114.241,-,-,17/Apr/2019:14:35:36 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1859 Build/O11019)\
+415,171.48.114.241,-,-,17/Apr/2019:14:35:37 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1859 Build/O11019)\
+416,54.36.150.131,-,-,17/Apr/2019:14:37:28 +0530,GET /AkashGupta/cobra/uploads/41.png HTTP/1.1,200,- \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+417,27.6.212.218,-,-,17/Apr/2019:14:38:41 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+418,27.6.212.218,-,-,17/Apr/2019:14:39:47 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+419,27.6.212.218,-,-,17/Apr/2019:14:40:50 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+420,27.6.212.218,-,-,17/Apr/2019:14:45:15 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+421,23.227.194.86,-,-,17/Apr/2019:14:50:30 +0530,HEAD / HTTP/1.1,200,- \http://searchkero.com/\ \Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)\
+422,47.31.110.79,-,-,17/Apr/2019:14:50:46 +0530,POST /aa/wallfetch.php HTTP/1.1,200,388 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+423,27.6.212.218,-,-,17/Apr/2019:14:50:51 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+424,47.30.239.50,-,-,17/Apr/2019:14:52:37 +0530,POST /aa/getuser.php HTTP/1.1,200,21063 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+425,47.30.239.50,-,-,17/Apr/2019:14:52:39 +0530,POST /aa/getuser.php HTTP/1.1,200,21063 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+426,27.6.212.218,-,-,17/Apr/2019:14:53:18 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+427,27.6.212.218,-,-,17/Apr/2019:14:56:31 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+428,47.31.183.0,-,-,17/Apr/2019:14:58:12 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+429,47.31.183.0,-,-,17/Apr/2019:14:58:13 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+430,47.31.183.0,-,-,17/Apr/2019:14:58:13 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+431,47.31.183.0,-,-,17/Apr/2019:14:58:21 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+432,47.31.183.0,-,-,17/Apr/2019:14:58:21 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+433,47.31.183.0,-,-,17/Apr/2019:14:58:22 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+434,47.31.183.0,-,-,17/Apr/2019:14:58:28 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+435,47.31.183.0,-,-,17/Apr/2019:14:58:29 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+436,27.6.212.218,-,-,17/Apr/2019:14:58:59 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+437,27.6.212.218,-,-,17/Apr/2019:15:00:18 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+438,47.31.183.0,-,-,17/Apr/2019:15:02:46 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+439,47.31.183.0,-,-,17/Apr/2019:15:02:46 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+440,47.31.183.0,-,-,17/Apr/2019:15:02:49 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+441,47.31.183.0,-,-,17/Apr/2019:15:03:00 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+442,47.31.183.0,-,-,17/Apr/2019:15:03:00 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+443,47.31.183.0,-,-,17/Apr/2019:15:03:09 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+444,54.36.150.139,-,-,17/Apr/2019:15:03:09 +0530,GET /anjali/news/newsinsert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+445,47.31.183.0,-,-,17/Apr/2019:15:03:10 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+446,47.31.183.0,-,-,17/Apr/2019:15:03:11 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+447,47.31.183.0,-,-,17/Apr/2019:15:03:12 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+448,47.31.183.0,-,-,17/Apr/2019:15:03:14 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+449,47.31.183.0,-,-,17/Apr/2019:15:03:15 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+450,47.31.183.0,-,-,17/Apr/2019:15:03:15 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+451,47.31.183.0,-,-,17/Apr/2019:15:03:16 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+452,47.31.183.0,-,-,17/Apr/2019:15:03:19 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+453,47.31.183.0,-,-,17/Apr/2019:15:03:26 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+454,47.31.183.0,-,-,17/Apr/2019:15:03:26 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+455,47.31.183.0,-,-,17/Apr/2019:15:03:31 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+456,47.31.183.0,-,-,17/Apr/2019:15:03:32 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+457,47.31.183.0,-,-,17/Apr/2019:15:03:32 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+458,47.31.183.0,-,-,17/Apr/2019:15:03:33 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+459,47.31.183.0,-,-,17/Apr/2019:15:03:34 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+460,47.31.183.0,-,-,17/Apr/2019:15:03:36 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+461,47.31.183.0,-,-,17/Apr/2019:15:03:41 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+462,47.31.183.0,-,-,17/Apr/2019:15:03:42 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+463,47.31.183.0,-,-,17/Apr/2019:15:03:42 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+464,47.31.183.0,-,-,17/Apr/2019:15:03:44 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+465,47.31.183.0,-,-,17/Apr/2019:15:03:44 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+466,47.31.183.0,-,-,17/Apr/2019:15:03:46 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; ASUS_X01BDA Build/OPM1)\
+467,54.36.148.165,-,-,17/Apr/2019:15:04:38 +0530,GET /bsadmin/IOL/courses/?C=M;O=A HTTP/1.1,200,2251 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+468,27.6.212.218,-,-,17/Apr/2019:15:05:12 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+469,54.36.149.29,-,-,17/Apr/2019:15:06:35 +0530,GET /AkashGupta/hit.qwerty/ff_insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+470,27.6.212.218,-,-,17/Apr/2019:15:06:43 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+471,27.6.212.218,-,-,17/Apr/2019:15:08:51 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+472,27.6.212.218,-,-,17/Apr/2019:15:09:38 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+473,27.6.212.218,-,-,17/Apr/2019:15:10:47 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+474,27.6.212.218,-,-,17/Apr/2019:15:11:02 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+475,27.6.212.218,-,-,17/Apr/2019:15:13:32 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,200,187 \-\ \okhttp/3.12.1\
+476,157.55.39.174,-,-,17/Apr/2019:15:16:45 +0530,GET /AkashGupta/ HTTP/1.1,200,1669 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+477,157.55.39.222,-,-,17/Apr/2019:15:16:48 +0530,GET /dellprogrammer/ HTTP/1.1,200,2620 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+478,157.55.39.179,-,-,17/Apr/2019:15:24:41 +0530,GET /Onlinelearning HTTP/1.1,200,594 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+479,54.72.206.215,-,-,17/Apr/2019:15:37:30 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/68.0.3440.106 Safari/537.36\
+480,54.36.150.21,-,-,17/Apr/2019:15:50:34 +0530,GET /oval/error_log HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+481,54.36.150.20,-,-,17/Apr/2019:16:09:34 +0530,GET /prerna/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+482,66.102.6.79,-,-,17/Apr/2019:16:11:43 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+483,54.36.150.95,-,-,17/Apr/2019:16:13:48 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+484,132.154.75.42,-,-,17/Apr/2019:16:38:20 +0530,POST /aa/fragment_fetch.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1805 Build/OPM1.171019.026)\
+485,132.154.75.42,-,-,17/Apr/2019:16:38:20 +0530,POST /aa/fragment_fetch.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1805 Build/OPM1.171019.026)\
+486,132.154.75.42,-,-,17/Apr/2019:16:38:43 +0530,POST /aa/fragment_fetch.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1805 Build/OPM1.171019.026)\
+487,132.154.75.42,-,-,17/Apr/2019:16:38:43 +0530,POST /aa/fragment_fetch.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1805 Build/OPM1.171019.026)\
+488,54.36.150.166,-,-,17/Apr/2019:17:02:34 +0530,GET /cetpa/fetch_placed.php HTTP/1.1,403,- \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+489,54.36.149.26,-,-,17/Apr/2019:17:28:39 +0530,GET /chandersheker/Qutes/error_log HTTP/1.1,403,- \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+490,47.30.239.211,-,-,17/Apr/2019:17:32:09 +0530,POST /aa/fragment_fetch.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1833 Build/O11019)\
+491,47.30.239.211,-,-,17/Apr/2019:17:32:09 +0530,POST /aa/fragment_fetch.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1833 Build/O11019)\
+492,47.30.239.211,-,-,17/Apr/2019:17:32:57 +0530,POST /aa/fragment_fetch.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1833 Build/O11019)\
+493,47.30.239.211,-,-,17/Apr/2019:17:32:58 +0530,POST /aa/fragment_fetch.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1833 Build/O11019)\
+494,47.30.239.211,-,-,17/Apr/2019:17:33:31 +0530,POST /aa/fragment_fetch.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1833 Build/O11019)\
+495,47.30.239.211,-,-,17/Apr/2019:17:33:31 +0530,POST /aa/fragment_fetch.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1833 Build/O11019)\
+496,47.31.123.143,-,-,17/Apr/2019:17:46:39 +0530,POST /rahul76/login.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V10.0.4.0.OEGMIFH)\
+497,47.31.123.143,-,-,17/Apr/2019:17:46:39 +0530,POST /rahul76/login.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V10.0.4.0.OEGMIFH)\
+498,47.31.123.143,-,-,17/Apr/2019:17:47:47 +0530,POST /rahul76/login.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V10.0.4.0.OEGMIFH)\
+499,47.31.123.143,-,-,17/Apr/2019:17:47:47 +0530,POST /rahul76/login.php HTTP/1.1,403,- \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V10.0.4.0.OEGMIFH)\
+500,18.191.233.49,-,-,06/Jan/2019:17:45:34 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Trident/5.0 Firefox/42.0\
+501,103.43.35.99,-,-,06/Jan/2019:17:45:53 +0530,GET /sanjeet/fetch.php HTTP/1.1,200,8974 \-\ \okhttp/3.2.0\
+502,103.43.35.99,-,-,06/Jan/2019:17:46:59 +0530,GET /sanjeet/fetch.php HTTP/1.1,200,8974 \-\ \okhttp/3.2.0\
+503,103.43.35.99,-,-,06/Jan/2019:17:47:34 +0530,GET /sanjeet/fetch.php HTTP/1.1,200,8974 \-\ \okhttp/3.2.0\
+504,103.43.35.99,-,-,06/Jan/2019:17:49:01 +0530,GET /sanjeet/fetch.php HTTP/1.1,200,8974 \-\ \okhttp/3.2.0\
+505,103.43.35.99,-,-,06/Jan/2019:17:49:58 +0530,GET /sanjeet/fetch.php HTTP/1.1,200,8974 \-\ \okhttp/3.2.0\
+506,157.55.39.209,-,-,06/Jan/2019:17:53:18 +0530,GET /pullmycar/?C=M;O=A HTTP/1.1,200,1323 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+507,103.43.35.99,-,-,06/Jan/2019:18:00:57 +0530,POST /sanjeet/insert.php HTTP/1.1,200,14 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi Note 3 MIUI/V10.1.1.0.MHOMIFI)\
+508,103.43.35.99,-,-,06/Jan/2019:18:00:57 +0530,GET /sanjeet/fetch.php HTTP/1.1,200,9063 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi Note 3 MIUI/V10.1.1.0.MHOMIFI)\
+509,103.43.35.99,-,-,06/Jan/2019:18:01:21 +0530,GET /sanjeet/fetch.php HTTP/1.1,200,9063 \-\ \okhttp/3.2.0\
+510,207.46.13.70,-,-,06/Jan/2019:18:08:31 +0530,GET /jgroup/?C=N;O=A HTTP/1.1,200,959 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+511,103.43.35.99,-,-,06/Jan/2019:18:11:09 +0530,GET /sanjeet/fetch.php HTTP/1.1,200,9063 \-\ \okhttp/3.2.0\
+512,103.43.35.99,-,-,06/Jan/2019:18:11:44 +0530,POST /sanjeet/insert.php HTTP/1.1,200,14 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi Note 3 MIUI/V10.1.1.0.MHOMIFI)\
+513,103.43.35.99,-,-,06/Jan/2019:18:11:45 +0530,GET /sanjeet/fetch.php HTTP/1.1,200,9149 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi Note 3 MIUI/V10.1.1.0.MHOMIFI)\
+514,103.43.35.99,-,-,06/Jan/2019:18:11:55 +0530,GET /sanjeet/fetch.php HTTP/1.1,200,9149 \-\ \okhttp/3.2.0\
+515,3.17.72.18,-,-,06/Jan/2019:18:14:16 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Trident/5.0 Safari/602.1\
+516,207.46.13.189,-,-,06/Jan/2019:18:15:18 +0530,GET /Tom/?C=M;O=D HTTP/1.1,200,776 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+517,54.36.148.135,-,-,06/Jan/2019:18:39:50 +0530,GET /AkashGupta/hit.qwerty/ff_insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+518,18.188.211.54,-,-,06/Jan/2019:18:44:13 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Trident/5.0 Chrome/67.0.3396.79 Safari/537.36\
+519,54.36.148.193,-,-,06/Jan/2019:18:57:14 +0530,GET /saurabh/smackie/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+520,3.17.37.54,-,-,06/Jan/2019:19:14:01 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Trident/5.0 Firefox/42.0\
+521,207.46.13.70,-,-,06/Jan/2019:19:16:29 +0530,GET /bbbbb/?C=D;O=A HTTP/1.1,200,1137 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+522,18.222.109.213,-,-,06/Jan/2019:19:44:07 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (X11; Linux x86_64) Trident/5.0 Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41\
+523,54.36.149.55,-,-,06/Jan/2019:20:04:01 +0530,GET /neeraj_negi/pgguide/p/49.png HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+524,18.223.108.8,-,-,06/Jan/2019:20:13:58 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Trident/5.0 Chrome/67.0.3396.79 Safari/537.36\
+525,54.36.149.62,-,-,06/Jan/2019:20:25:43 +0530,GET /nidhi/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+526,54.36.148.61,-,-,06/Jan/2019:20:26:57 +0530,GET /neeraj_negi/pgguide/fetch_pg.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+527,207.46.13.20,-,-,06/Jan/2019:20:28:28 +0530,GET /vishal/?C=N;O=A HTTP/1.1,200,1313 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+528,42.111.30.162,-,-,06/Jan/2019:20:35:28 +0530,GET /video_status/api/video_category.php HTTP/1.1,200,336 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; F103 Pro Build/MRA58K)\
+529,54.36.148.58,-,-,06/Jan/2019:20:39:25 +0530,GET /bsadmin/IOL/courses/hibernate.html HTTP/1.1,200,1613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+530,18.222.194.146,-,-,06/Jan/2019:20:43:09 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Chrome/67.0.3396.79 Safari/537.36\
+531,54.36.149.32,-,-,06/Jan/2019:21:10:49 +0530,GET /RohitUpadhayay/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+532,18.223.108.8,-,-,06/Jan/2019:21:15:35 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Trident/5.0 Safari/602.1\
+533,54.36.148.23,-,-,06/Jan/2019:21:21:25 +0530,GET /Aishwarya/img.jpg HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+534,35.233.126.71,-,-,06/Jan/2019:21:36:11 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.167 Safari/537.36\
+535,207.46.13.82,-,-,06/Jan/2019:21:37:19 +0530,GET /MayankBabu/?C=N;O=D HTTP/1.1,200,1882 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+536,18.223.117.68,-,-,06/Jan/2019:21:44:48 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) AppleWebKit/537.36 (KHTML like Gecko) Safari/602.1\
+537,66.102.6.156,-,-,06/Jan/2019:21:59:18 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+538,47.31.100.156,-,-,06/Jan/2019:22:01:48 +0530,POST /uploadpic/fetch.php HTTP/1.1,200,4829 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+539,47.31.100.156,-,-,06/Jan/2019:22:01:55 +0530,POST /uploadpic/fetch.php HTTP/1.1,200,4829 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+540,18.223.107.37,-,-,06/Jan/2019:22:14:51 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Chrome/67.0.3396.79 Safari/537.36\
+541,95.216.15.49,-,-,06/Jan/2019:22:24:58 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML like Gecko) Version/11.0 Mobile/15A372 Safari/604.1\
+542,54.36.149.89,-,-,06/Jan/2019:22:35:44 +0530,GET /bsadmin/retrofit/insertion.php HTTP/1.1,200,18 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+543,13.58.240.96,-,-,06/Jan/2019:22:44:18 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (X11; Linux x86_64) Trident/5.0 Firefox/42.0\
+544,54.36.148.61,-,-,06/Jan/2019:22:53:46 +0530,GET /bsadmin/canteen/?C=D;O=D HTTP/1.1,200,1893 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+545,103.83.146.4,-,-,18/Apr/2019:06:36:26 +0530,POST /aa/fragment_fetch.php HTTP/1.1,404,613 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; Redmi 4 MIUI/V10.1.1.0.NAMMIFI)\
+546,40.77.167.22,-,-,18/Apr/2019:07:06:21 +0530,GET /HelloSQLF/insert.php HTTP/1.1,200,109 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+547,104.131.190.117,-,-,18/Apr/2019:07:17:45 +0530,GET / HTTP/1.1,200,137 \http://searchkero.com\ \Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36\
+548,66.249.66.132,-,-,18/Apr/2019:07:31:51 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\
+549,66.249.66.134,-,-,18/Apr/2019:07:32:10 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\
+550,66.249.66.130,-,-,18/Apr/2019:07:32:20 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\
+551,40.77.167.22,-,-,18/Apr/2019:07:33:32 +0530,GET /Imageuploading/ HTTP/1.1,200,1525 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+552,157.55.39.9,-,-,18/Apr/2019:07:35:26 +0530,GET /Ggroup/ HTTP/1.1,200,959 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+553,40.77.167.22,-,-,18/Apr/2019:08:06:22 +0530,GET /punjabgroup/ HTTP/1.1,200,1146 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+554,47.30.218.189,-,-,18/Apr/2019:08:24:06 +0530,POST /aa/fragment_fetch.php HTTP/1.1,404,613 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1833 Build/O11019)\
+555,207.46.13.40,-,-,18/Apr/2019:08:40:17 +0530,GET /manohar/ HTTP/1.1,200,1140 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+556,207.46.13.0,-,-,18/Apr/2019:08:52:26 +0530,GET /jims/ HTTP/1.1,200,1490 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+557,47.30.185.179,-,-,18/Apr/2019:08:55:59 +0530,POST /aa/getuser.php HTTP/1.1,404,613 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+558,157.55.39.114,-,-,18/Apr/2019:09:07:33 +0530,GET /arvind/mconnect.php HTTP/1.1,200,24 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+559,40.77.167.153,-,-,18/Apr/2019:10:09:36 +0530,GET /Shubham78/ HTTP/1.1,200,1148 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+560,54.36.150.92,-,-,18/Apr/2019:10:12:41 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)\
+561,103.72.143.47,-,-,18/Apr/2019:10:29:54 +0530,GET /favicon.ico HTTP/1.1,404,613 \http://searchkero.com/onlinelearn/android_fetch.php\ \Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+562,40.77.167.51,-,-,18/Apr/2019:10:35:38 +0530,GET /sushma/ HTTP/1.1,200,1136 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+563,40.77.167.51,-,-,18/Apr/2019:10:47:02 +0530,GET /munnayadav/ HTTP/1.1,200,1330 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+564,207.46.13.0,-,-,18/Apr/2019:11:56:52 +0530,GET /contact/ HTTP/1.1,200,1314 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+565,40.77.167.12,-,-,18/Apr/2019:13:24:02 +0530,GET /pullmycar/ HTTP/1.1,200,1323 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+566,27.6.212.218,-,-,18/Apr/2019:13:41:33 +0530,GET /rajat/testapi/index.php/Home/show HTTP/1.1,404,613 \-\ \PostmanRuntime/7.6.0\
+567,91.242.162.87,-,-,18/Apr/2019:13:45:23 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; Qwantify/Bleriot/1.1; +https://help.qwant.com/bot)\
+568,91.242.162.133,-,-,18/Apr/2019:13:45:38 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (compatible; Qwantify/Bleriot/1.1; +https://help.qwant.com/bot)\
+569,157.55.39.248,-,-,18/Apr/2019:14:37:14 +0530,GET /dilip/ HTTP/1.1,200,1308 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+570,49.14.155.164,-,-,18/Apr/2019:14:46:52 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,52 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+571,49.14.155.164,-,-,18/Apr/2019:14:47:08 +0530,POST /seven/portal/register.php HTTP/1.1,200,14 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+572,49.14.155.164,-,-,18/Apr/2019:14:47:21 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,55 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+573,49.14.155.164,-,-,18/Apr/2019:14:47:38 +0530,POST /seven/portal/register.php HTTP/1.1,200,14 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+574,49.14.155.164,-,-,18/Apr/2019:14:47:47 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,55 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+575,207.46.13.164,-,-,18/Apr/2019:15:16:50 +0530,GET /vikku/connection.php HTTP/1.1,500,- \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+576,157.55.39.248,-,-,18/Apr/2019:15:36:05 +0530,GET /mano/ HTTP/1.1,200,955 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+577,40.77.167.127,-,-,18/Apr/2019:16:37:38 +0530,GET /Ishita/ HTTP/1.1,200,1136 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+578,27.6.212.218,-,-,18/Apr/2019:17:34:19 +0530,GET /rajat/testapi/index.php/Home/profile?id=218 HTTP/1.1,404,613 \-\ \okhttp/3.12.1\
+579,40.77.167.79,-,-,18/Apr/2019:17:52:54 +0530,GET /himani2610/ HTTP/1.1,200,967 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+580,103.83.148.173,-,-,18/Apr/2019:17:54:43 +0530,POST /aa/fragment_fetch.php HTTP/1.1,404,613 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; RMX1833 Build/O11019)\
+581,66.102.6.41,-,-,18/Apr/2019:18:13:53 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+582,66.102.6.41,-,-,18/Apr/2019:18:13:53 +0530,GET /imagekhel/getAllImages.php HTTP/1.1,200,1499 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+583,66.102.6.41,-,-,18/Apr/2019:18:13:53 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+584,66.102.6.39,-,-,18/Apr/2019:18:13:53 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+585,132.154.93.25,-,-,18/Apr/2019:18:20:14 +0530,POST /aa/fragment_fetch.php HTTP/1.1,404,613 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; Nokia 7 plus Build/PPR1.180610.011)\
+586,66.249.65.134,-,-,18/Apr/2019:19:51:47 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\
+587,66.249.65.134,-,-,18/Apr/2019:19:51:50 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\
+588,207.46.13.92,-,-,18/Apr/2019:19:54:19 +0530,GET /Aman/ HTTP/1.1,200,1135 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+589,157.45.79.120,-,-,18/Apr/2019:21:17:57 +0530,POST /wall/fetch.php HTTP/1.1,404,613 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi Note 3 MIUI/V10.2.1.0.MHOMIXM)\
+590,40.77.167.73,-,-,18/Apr/2019:21:26:20 +0530,GET /Googlemap1/ HTTP/1.1,200,967 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+591,52.53.201.78,-,-,18/Apr/2019:21:32:43 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.100 Safari/537.36\
+592,47.31.85.10,-,-,18/Apr/2019:21:58:12 +0530,POST /aa/fragment_fetch.php HTTP/1.1,404,613 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+593,40.77.167.0,-,-,18/Apr/2019:22:04:47 +0530,GET /fgroup/ HTTP/1.1,200,1136 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+594,1.23.103.100,-,-,18/Apr/2019:22:21:08 +0530,GET /aa/getuser.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+595,1.23.103.100,-,-,18/Apr/2019:22:28:02 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+596,1.23.103.100,-,-,18/Apr/2019:22:28:15 +0530,POST /aa/login.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+597,1.23.103.100,-,-,18/Apr/2019:22:28:16 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+598,1.23.103.100,-,-,18/Apr/2019:22:28:17 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+599,1.23.103.100,-,-,18/Apr/2019:22:28:18 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+600,1.23.103.100,-,-,18/Apr/2019:22:28:18 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+601,1.23.103.100,-,-,18/Apr/2019:22:28:20 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+602,1.23.103.100,-,-,18/Apr/2019:22:28:21 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+603,1.23.103.100,-,-,18/Apr/2019:22:28:21 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+604,1.23.103.100,-,-,18/Apr/2019:22:28:21 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+605,1.23.103.100,-,-,18/Apr/2019:22:28:59 +0530,GET /aa/getuser.php HTTP/1.1,200,21063 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+606,1.23.103.100,-,-,18/Apr/2019:22:56:31 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+607,1.23.103.100,-,-,18/Apr/2019:22:57:11 +0530,GET /aa/getuser.php HTTP/1.1,200,21183 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+608,1.23.103.100,-,-,18/Apr/2019:22:58:20 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+609,1.23.103.100,-,-,18/Apr/2019:22:58:21 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+610,1.23.103.100,-,-,18/Apr/2019:22:58:21 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+611,1.23.103.100,-,-,18/Apr/2019:23:11:04 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+612,1.23.103.100,-,-,18/Apr/2019:23:11:04 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+613,1.23.103.100,-,-,18/Apr/2019:23:12:33 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+614,1.23.103.100,-,-,18/Apr/2019:23:12:33 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+615,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //dompdf/dompdf.php?input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+616,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //vendor/dompdf/dompdf.php?input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+617,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //plugin/dompdf/dompdf.php?input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+618,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //libphp/dompdf/dompdf.php?input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+619,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //plugins/dompdf/dompdf.php?input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+620,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //vendor/dompdf/dompdf.php?base_path=%2f&input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+621,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //dompdf/dompdf.php?base_path=%2f&input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+622,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //plugin/dompdf/dompdf.php?base_path=%2f&input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+623,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //vendor/dompdf/dompdf/dompdf.php?base_path=%2f&input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+624,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //plugins/dompdf/dompdf.php?base_path=%2f&input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+625,83.240.186.238,-,-,18/Apr/2019:23:29:07 +0530,GET //libphp/dompdf/dompdf.php?base_path=%2f&input_file=http%3a%2f%2fdev.pictbland.net%2fimages%2f2.txt HTTP/1.1,404,613 \-\ \-\
+626,148.251.121.91,-,-,18/Apr/2019:23:46:19 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \DomainStatsBot/1.0 (https://domainstats.com/pages/our-bot)\
+627,148.251.121.91,-,-,18/Apr/2019:23:46:19 +0530,HEAD / HTTP/1.1,200,- \-\ \DomainStatsBot/1.0 (https://domainstats.com/pages/our-bot)\
+628,148.251.121.91,-,-,18/Apr/2019:23:46:20 +0530,GET / HTTP/1.1,200,137 \-\ \DomainStatsBot/1.0 (https://domainstats.com/pages/our-bot)\
+629,40.77.167.21,-,-,19/Apr/2019:00:21:31 +0530,GET /blogtest/insert.php HTTP/1.1,200,19 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+630,157.55.39.85,-,-,19/Apr/2019:00:35:58 +0530,GET /Imageuploading/imgupload/ HTTP/1.1,200,653 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+631,108.177.7.94,-,-,19/Apr/2019:00:37:40 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; Pixel 2 Build/PQ2A.190405.003)\
+632,108.177.6.58,-,-,19/Apr/2019:00:41:16 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G960U1 Build/R16NW)\
+633,108.177.6.58,-,-,19/Apr/2019:00:43:50 +0530,POST /aa/register.php HTTP/1.1,200,23 \-\ \Dalvik/1.6.0 (Linux; U; Android 4.3; GT-I9300 Build/JSS15J)\
+634,108.177.6.56,-,-,19/Apr/2019:00:52:17 +0530,POST /aa/register.php HTTP/1.1,200,23 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; XT1650 Build/MPL24.246-20)\
+635,108.177.6.58,-,-,19/Apr/2019:00:57:38 +0530,POST /aa/register.php HTTP/1.1,200,23 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Pixel 2 Build/OPM1.171019.013)\
+636,104.132.127.103,-,-,19/Apr/2019:01:32:37 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Nexus 6P Build/OPM7.181205.001)\
+637,207.46.13.109,-,-,19/Apr/2019:01:49:23 +0530,GET /website/ HTTP/1.1,200,415 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+638,157.55.39.85,-,-,19/Apr/2019:01:49:37 +0530,GET /shubhra/ HTTP/1.1,200,1496 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+639,104.132.1.99,-,-,19/Apr/2019:02:14:01 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; moto x4 Build/PPW29.69-39-1)\
+640,207.46.13.140,-,-,19/Apr/2019:02:27:01 +0530,GET /educationtution/forgot.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+641,104.132.127.100,-,-,19/Apr/2019:02:51:14 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; ASUS_Z00UD Build/MMB29P)\
+642,1.23.103.100,-,-,19/Apr/2019:03:33:09 +0530,GET /aa/terms.txt HTTP/1.1,200,570 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+643,104.132.1.105,-,-,19/Apr/2019:03:38:07 +0530,GET /aa/terms.txt HTTP/1.1,200,570 \-\ \Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+644,104.132.1.105,-,-,19/Apr/2019:03:38:07 +0530,GET /favicon.ico HTTP/1.1,404,613 \http://searchkero.com/aa/terms.txt\ \Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+645,157.45.239.7,-,-,19/Apr/2019:04:03:12 +0530,POST /sanjeet/insert.php HTTP/1.1,200,14 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi Note 3 MIUI/V10.2.1.0.MHOMIXM)\
+646,157.45.239.7,-,-,19/Apr/2019:04:03:12 +0530,POST /sanjeet/fetch.php HTTP/1.1,200,9245 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi Note 3 MIUI/V10.2.1.0.MHOMIXM)\
+647,157.45.239.7,-,-,19/Apr/2019:04:03:35 +0530,POST /sanjeet/fetch.php HTTP/1.1,200,9245 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi Note 3 MIUI/V10.2.1.0.MHOMIXM)\
+648,157.45.239.7,-,-,19/Apr/2019:04:03:41 +0530,POST /sanjeet/fetch.php HTTP/1.1,200,9245 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi Note 3 MIUI/V10.2.1.0.MHOMIXM)\
+649,157.55.39.85,-,-,19/Apr/2019:04:13:17 +0530,GET / HTTP/1.1,304,- \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+650,1.23.103.100,-,-,19/Apr/2019:04:22:48 +0530,POST /aa/getuser.php HTTP/1.1,200,21927 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1611 Build/N2G47H)\
+651,207.46.13.149,-,-,19/Apr/2019:04:28:21 +0530,GET /santvana/ HTTP/1.1,200,1315 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+652,207.46.13.117,-,-,19/Apr/2019:04:34:17 +0530,GET /mehboob/connect.php HTTP/1.1,200,18 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+653,138.197.65.92,-,-,19/Apr/2019:04:34:55 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36\
+654,104.132.127.100,-,-,19/Apr/2019:04:47:29 +0530,POST /aa/register.php HTTP/1.1,200,23 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; Pixel Build/PPR2.181005.003)\
+655,207.46.13.140,-,-,19/Apr/2019:05:07:41 +0530,GET /pandya/fetchvide.php HTTP/1.1,200,483 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+656,207.46.13.199,-,-,19/Apr/2019:05:48:38 +0530,GET /ytfetch/ HTTP/1.1,200,1318 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+657,207.46.13.149,-,-,19/Apr/2019:06:18:09 +0530,GET /friends/ HTTP/1.1,200,1678 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+658,157.55.39.8,-,-,19/Apr/2019:06:54:35 +0530,GET /yogapri/ HTTP/1.1,200,1317 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+659,157.55.39.74,-,-,19/Apr/2019:07:39:02 +0530,GET /Ritika/MessInchargeLogin.php HTTP/1.1,200,47 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+660,157.55.39.5,-,-,19/Apr/2019:08:08:11 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+661,157.55.39.74,-,-,19/Apr/2019:08:08:12 +0530,GET /group_a/ HTTP/1.1,200,961 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+662,207.46.13.149,-,-,19/Apr/2019:08:08:20 +0530,GET /palak/ HTTP/1.1,200,1134 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+663,104.132.1.105,-,-,19/Apr/2019:08:10:52 +0530,GET /aa/terms.txt HTTP/1.1,200,570 \-\ \Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+664,104.132.0.95,-,-,19/Apr/2019:08:11:49 +0530,GET /aa/terms.txt HTTP/1.1,200,570 \-\ \Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+665,104.132.0.95,-,-,19/Apr/2019:08:11:49 +0530,GET /favicon.ico HTTP/1.1,404,613 \http://searchkero.com/aa/terms.txt\ \Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+666,157.55.39.220,-,-,19/Apr/2019:08:25:45 +0530,GET /riya/ HTTP/1.1,200,1135 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+667,1.23.103.100,-,-,19/Apr/2019:08:28:46 +0530,GET /aa/terms.txt HTTP/1.1,200,4587 \-\ \Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+668,178.151.245.174,-,-,19/Apr/2019:08:38:24 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+669,178.151.245.174,-,-,19/Apr/2019:08:38:31 +0530,GET /tmp/analog/ssl/searchkero.com/7.html HTTP/1.1,200,40019 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+670,178.151.245.174,-,-,19/Apr/2019:08:38:44 +0530,GET /tmp/analog/ssl/searchkero.com/9.html HTTP/1.1,200,43830 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+671,178.151.245.174,-,-,19/Apr/2019:08:38:50 +0530,GET /tmp/webalizer/ HTTP/1.1,200,7100 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+672,178.151.245.174,-,-,19/Apr/2019:08:38:57 +0530,GET /tmp/webalizer/usage_201703.html HTTP/1.1,200,43216 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+673,178.151.245.174,-,-,19/Apr/2019:08:39:03 +0530,GET /tmp/webalizer/usage_201704.html HTTP/1.1,200,166770 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+674,178.151.245.174,-,-,19/Apr/2019:08:39:10 +0530,GET /tmp/webalizer/usage_201705.html HTTP/1.1,200,153898 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+675,178.151.245.174,-,-,19/Apr/2019:08:39:16 +0530,GET /tmp/webalizer/usage_201707.html HTTP/1.1,200,144389 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+676,178.151.245.174,-,-,19/Apr/2019:08:39:24 +0530,GET /tmp/webalizer/usage_201708.html HTTP/1.1,200,174157 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+677,178.151.245.174,-,-,19/Apr/2019:08:39:29 +0530,GET /tmp/webalizer/usage_201709.html HTTP/1.1,200,117325 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+678,178.151.245.174,-,-,19/Apr/2019:08:39:36 +0530,GET /tmp/webalizerftp/ HTTP/1.1,200,3667 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+679,178.151.245.174,-,-,19/Apr/2019:08:39:44 +0530,GET /tmp/webalizerftp/usage_201704.html HTTP/1.1,200,47906 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+680,178.151.245.174,-,-,19/Apr/2019:08:40:00 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+681,178.151.245.174,-,-,19/Apr/2019:08:40:04 +0530,GET /infinityarya/ HTTP/1.1,200,5080 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+682,178.151.245.174,-,-,19/Apr/2019:08:40:08 +0530,GET /infinityarya/about.html HTTP/1.1,200,5096 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+683,178.151.245.174,-,-,19/Apr/2019:08:40:12 +0530,GET /infinityarya/contact.html HTTP/1.1,200,5073 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+684,178.151.245.174,-,-,19/Apr/2019:08:40:17 +0530,GET /infinityarya/events.html HTTP/1.1,200,6493 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+685,178.151.245.174,-,-,19/Apr/2019:08:40:22 +0530,GET /infinityarya/index.html HTTP/1.1,200,5080 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+686,178.151.245.174,-,-,19/Apr/2019:08:40:29 +0530,GET /innovations/contact.php HTTP/1.1,200,4975 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+687,178.151.245.174,-,-,19/Apr/2019:08:40:41 +0530,GET /sms/vendor/twilio/sdk/docs/_themes/kr_small/layout.html HTTP/1.1,200,683 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+688,178.151.245.174,-,-,19/Apr/2019:08:40:48 +0530,GET /tmp/analog/4.html HTTP/1.1,200,50146 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+689,178.151.245.174,-,-,19/Apr/2019:08:40:54 +0530,GET /tmp/analog/5.html HTTP/1.1,200,69468 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+690,178.151.245.174,-,-,19/Apr/2019:08:41:01 +0530,GET /tmp/analog/6.html HTTP/1.1,200,86499 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+691,178.151.245.174,-,-,19/Apr/2019:08:41:07 +0530,GET /tmp/analog/7.html HTTP/1.1,200,95270 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+692,178.151.245.174,-,-,19/Apr/2019:08:41:12 +0530,GET /tmp/analog/8.html HTTP/1.1,200,111270 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+693,178.151.245.174,-,-,19/Apr/2019:08:41:18 +0530,GET /tmp/analog/9.html HTTP/1.1,200,113038 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+694,178.151.245.174,-,-,19/Apr/2019:08:41:26 +0530,GET /tmp/analog/ssl/searchkero.com/5.html HTTP/1.1,200,4623 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+695,178.151.245.174,-,-,19/Apr/2019:08:41:32 +0530,GET /tmp/analog/ssl/searchkero.com/7.html HTTP/1.1,200,40019 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+696,178.151.245.174,-,-,19/Apr/2019:08:41:38 +0530,GET /tmp/analog/ssl/searchkero.com/8.html HTTP/1.1,200,42590 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+697,178.151.245.174,-,-,19/Apr/2019:08:41:43 +0530,GET /tmp/analog/techyshed.searchkero.com/9.html HTTP/1.1,200,26916 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+698,178.151.245.174,-,-,19/Apr/2019:08:41:50 +0530,GET /tmp/webalizer/ HTTP/1.1,200,7100 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+699,178.151.245.174,-,-,19/Apr/2019:08:41:56 +0530,GET /tmp/webalizer/usage_201703.html HTTP/1.1,200,43216 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+700,178.151.245.174,-,-,19/Apr/2019:08:42:03 +0530,GET /tmp/webalizer/usage_201704.html HTTP/1.1,200,166770 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+701,178.151.245.174,-,-,19/Apr/2019:08:42:08 +0530,GET /tmp/webalizer/usage_201705.html HTTP/1.1,200,153898 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+702,178.151.245.174,-,-,19/Apr/2019:08:42:15 +0530,GET /tmp/webalizer/usage_201706.html HTTP/1.1,200,157615 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+703,207.46.13.149,-,-,19/Apr/2019:08:47:13 +0530,GET /sach/ HTTP/1.1,200,1132 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+704,47.30.184.69,-,-,19/Apr/2019:09:10:23 +0530,POST /aa/login.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; BND-AL10 Build/HONORBND-AL10)\
+705,47.30.184.69,-,-,19/Apr/2019:09:10:23 +0530,POST /aa/login.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; BND-AL10 Build/HONORBND-AL10)\
+706,104.132.1.105,-,-,19/Apr/2019:09:21:46 +0530,GET /aa/terms.txt HTTP/1.1,200,4587 \-\ \Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+707,157.55.39.220,-,-,19/Apr/2019:09:27:48 +0530,GET /logindb/ HTTP/1.1,200,1315 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+708,207.46.13.149,-,-,19/Apr/2019:09:56:15 +0530,GET /aaaa/ HTTP/1.1,200,1670 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+709,104.132.127.101,-,-,19/Apr/2019:10:09:52 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 9; Pixel Build/PQ2A.190405.003)\
+710,157.55.39.220,-,-,19/Apr/2019:10:46:48 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+711,40.77.167.84,-,-,19/Apr/2019:11:12:54 +0530,GET /radhak/ HTTP/1.1,200,3307 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+712,157.55.39.53,-,-,19/Apr/2019:11:53:50 +0530,GET /alokkk/ HTTP/1.1,200,1495 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+713,182.69.20.197,-,-,19/Apr/2019:12:02:41 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 Pro MIUI/V10.2.2.0.OEIMIXM)\
+714,182.69.20.197,-,-,19/Apr/2019:12:02:42 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 Pro MIUI/V10.2.2.0.OEIMIXM)\
+715,182.69.20.197,-,-,19/Apr/2019:12:02:42 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 Pro MIUI/V10.2.2.0.OEIMIXM)\
+716,182.69.20.197,-,-,19/Apr/2019:12:02:43 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 Pro MIUI/V10.2.2.0.OEIMIXM)\
+717,182.69.20.197,-,-,19/Apr/2019:12:02:43 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 Pro MIUI/V10.2.2.0.OEIMIXM)\
+718,174.72.20.141,-,-,19/Apr/2019:12:06:04 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+719,174.72.20.141,-,-,19/Apr/2019:12:06:05 +0530,GET /favicon.ico HTTP/1.1,404,613 \http://searchkero.com/\ \Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+720,122.171.85.158,-,-,19/Apr/2019:12:07:44 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+721,122.171.85.158,-,-,19/Apr/2019:12:07:44 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+722,122.171.85.158,-,-,19/Apr/2019:12:08:07 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+723,122.171.85.158,-,-,19/Apr/2019:12:08:46 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+724,103.72.143.47,-,-,19/Apr/2019:12:10:39 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+725,103.72.143.47,-,-,19/Apr/2019:12:10:39 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+726,202.62.95.70,-,-,19/Apr/2019:12:12:33 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+727,202.62.95.70,-,-,19/Apr/2019:12:12:33 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+728,202.62.95.70,-,-,19/Apr/2019:12:13:00 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+729,202.62.95.70,-,-,19/Apr/2019:12:13:02 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+730,202.62.95.70,-,-,19/Apr/2019:12:13:06 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+731,202.62.95.70,-,-,19/Apr/2019:12:13:10 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+732,202.62.95.70,-,-,19/Apr/2019:12:13:12 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+733,202.62.95.70,-,-,19/Apr/2019:12:13:38 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+734,202.62.95.70,-,-,19/Apr/2019:12:13:38 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+735,202.62.95.70,-,-,19/Apr/2019:12:13:39 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+736,202.62.95.70,-,-,19/Apr/2019:12:13:39 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+737,202.62.95.70,-,-,19/Apr/2019:12:13:39 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+738,202.62.95.70,-,-,19/Apr/2019:12:13:40 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+739,202.62.95.70,-,-,19/Apr/2019:12:17:20 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+740,202.62.95.70,-,-,19/Apr/2019:12:17:21 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+741,202.62.95.70,-,-,19/Apr/2019:12:17:21 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+742,202.62.95.70,-,-,19/Apr/2019:12:17:22 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+743,202.62.95.70,-,-,19/Apr/2019:12:17:22 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+744,202.62.95.70,-,-,19/Apr/2019:12:17:36 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+745,202.62.95.70,-,-,19/Apr/2019:12:17:36 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+746,202.62.95.70,-,-,19/Apr/2019:12:17:36 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+747,202.62.95.70,-,-,19/Apr/2019:12:17:37 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+748,202.62.95.70,-,-,19/Apr/2019:12:17:41 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+749,202.62.95.70,-,-,19/Apr/2019:12:17:42 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+750,202.62.95.70,-,-,19/Apr/2019:12:17:42 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+751,202.62.95.70,-,-,19/Apr/2019:12:17:44 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+752,202.62.95.70,-,-,19/Apr/2019:12:17:44 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+753,202.62.95.70,-,-,19/Apr/2019:12:17:46 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+754,202.62.95.70,-,-,19/Apr/2019:12:17:46 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+755,202.62.95.70,-,-,19/Apr/2019:12:17:47 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+756,202.62.95.70,-,-,19/Apr/2019:12:17:47 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+757,202.62.95.70,-,-,19/Apr/2019:12:17:48 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+758,202.62.95.70,-,-,19/Apr/2019:12:17:53 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+759,202.62.95.70,-,-,19/Apr/2019:12:17:53 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+760,202.62.95.70,-,-,19/Apr/2019:12:18:02 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+761,202.62.95.70,-,-,19/Apr/2019:12:18:01 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+762,202.62.95.70,-,-,19/Apr/2019:12:18:04 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+763,202.62.95.70,-,-,19/Apr/2019:12:18:02 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+764,202.62.95.70,-,-,19/Apr/2019:12:18:06 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+765,169.149.197.60,-,-,19/Apr/2019:12:19:23 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/8.12.20)\
+766,169.149.197.60,-,-,19/Apr/2019:12:20:08 +0530,POST /aa/register.php HTTP/1.1,200,22 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/8.12.20)\
+767,169.149.197.60,-,-,19/Apr/2019:12:20:35 +0530,POST /aa/login.php HTTP/1.1,200,7 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/8.12.20)\
+768,169.149.197.60,-,-,19/Apr/2019:12:20:37 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/8.12.20)\
+769,169.149.197.60,-,-,19/Apr/2019:12:20:38 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/8.12.20)\
+770,169.149.197.60,-,-,19/Apr/2019:12:20:42 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/8.12.20)\
+771,169.149.197.60,-,-,19/Apr/2019:12:20:42 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/8.12.20)\
+772,169.149.197.60,-,-,19/Apr/2019:12:20:57 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/8.12.20)\
+773,169.149.197.60,-,-,19/Apr/2019:12:21:01 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/8.12.20)\
+774,169.149.242.116,-,-,19/Apr/2019:12:21:07 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/8.12.20)\
+775,202.62.95.70,-,-,19/Apr/2019:12:21:51 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+776,202.62.95.70,-,-,19/Apr/2019:12:22:05 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+777,202.62.95.70,-,-,19/Apr/2019:12:22:06 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+778,202.62.95.70,-,-,19/Apr/2019:12:22:06 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+779,202.62.95.70,-,-,19/Apr/2019:12:22:07 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+780,202.62.95.70,-,-,19/Apr/2019:12:22:07 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+781,202.62.95.70,-,-,19/Apr/2019:12:22:10 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+782,202.62.95.70,-,-,19/Apr/2019:12:22:10 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+783,202.62.95.70,-,-,19/Apr/2019:12:22:09 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+784,202.62.95.70,-,-,19/Apr/2019:12:22:10 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+785,202.62.95.70,-,-,19/Apr/2019:12:22:11 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+786,202.62.95.70,-,-,19/Apr/2019:12:22:12 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+787,202.62.95.70,-,-,19/Apr/2019:12:22:12 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+788,202.62.95.70,-,-,19/Apr/2019:12:22:13 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+789,202.62.95.70,-,-,19/Apr/2019:12:22:19 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+790,202.62.95.70,-,-,19/Apr/2019:12:22:28 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+791,202.62.95.70,-,-,19/Apr/2019:12:22:28 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+792,202.62.95.70,-,-,19/Apr/2019:12:22:29 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+793,202.62.95.70,-,-,19/Apr/2019:12:22:30 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+794,66.249.65.130,-,-,19/Apr/2019:12:22:32 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\
+795,66.249.65.130,-,-,19/Apr/2019:12:22:33 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Googlebot-Image/1.0\
+796,202.62.95.70,-,-,19/Apr/2019:12:22:33 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+797,202.62.95.70,-,-,19/Apr/2019:12:22:33 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+798,202.62.95.70,-,-,19/Apr/2019:12:22:34 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+799,202.62.95.70,-,-,19/Apr/2019:12:22:34 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+800,202.62.95.70,-,-,19/Apr/2019:12:22:35 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+801,202.62.95.70,-,-,19/Apr/2019:12:22:35 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+802,202.62.95.70,-,-,19/Apr/2019:12:22:35 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+803,66.102.6.79,-,-,19/Apr/2019:12:23:01 +0530,GET /aa/upload.php HTTP/1.1,200,- \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+804,66.102.6.79,-,-,19/Apr/2019:12:23:02 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon\
+805,202.62.95.70,-,-,19/Apr/2019:12:23:22 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+806,202.62.95.70,-,-,19/Apr/2019:12:23:22 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+807,202.62.95.70,-,-,19/Apr/2019:12:23:23 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+808,202.62.95.70,-,-,19/Apr/2019:12:23:23 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+809,202.62.95.70,-,-,19/Apr/2019:12:23:23 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+810,202.62.95.70,-,-,19/Apr/2019:12:23:24 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+811,202.62.95.70,-,-,19/Apr/2019:12:23:25 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+812,47.30.132.91,-,-,19/Apr/2019:12:37:28 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+813,47.30.132.91,-,-,19/Apr/2019:12:37:31 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+814,47.30.132.91,-,-,19/Apr/2019:12:37:32 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+815,47.30.132.91,-,-,19/Apr/2019:12:37:32 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Y2 MIUI/V10.2.2.0.OEFMIXM)\
+816,40.77.167.56,-,-,19/Apr/2019:12:57:32 +0530,GET /innovations/ HTTP/1.1,200,7510 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+817,54.184.29.19,-,-,19/Apr/2019:13:21:34 +0530,GET / HTTP/1.1,200,137 \-\ \Go-http-client/1.1\
+818,78.46.59.82,-,-,19/Apr/2019:13:24:43 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+819,78.46.59.82,-,-,19/Apr/2019:13:24:51 +0530,GET /1test/c99.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+820,78.46.59.82,-,-,19/Apr/2019:13:25:14 +0530,GET /1test/privr57.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+821,78.46.59.82,-,-,19/Apr/2019:13:25:47 +0530,GET /Aayushgupta/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+822,78.46.59.82,-,-,19/Apr/2019:13:26:08 +0530,GET /Aayushgupta/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+823,78.46.59.82,-,-,19/Apr/2019:13:26:27 +0530,GET /Aayushgupta/website/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+824,78.46.59.82,-,-,19/Apr/2019:13:26:45 +0530,GET /Achlesh/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+825,78.46.59.82,-,-,19/Apr/2019:13:26:53 +0530,GET /Aditya/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+826,78.46.59.82,-,-,19/Apr/2019:13:27:09 +0530,GET /Aishwarya/fetchnew.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+827,78.46.59.82,-,-,19/Apr/2019:13:27:49 +0530,GET /Aishwarya/insertme.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+828,78.46.59.82,-,-,19/Apr/2019:13:27:59 +0530,GET /AkashGupta/fetching/ak_insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+829,78.46.59.82,-,-,19/Apr/2019:13:28:12 +0530,GET /AkashGupta/hit.qwerty/ak_insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+830,78.46.59.82,-,-,19/Apr/2019:13:28:42 +0530,GET /AkashGupta/itemlist/ak_fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+831,78.46.59.82,-,-,19/Apr/2019:13:28:50 +0530,GET /AkashGupta/itemlist/ak_insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+832,78.46.59.82,-,-,19/Apr/2019:13:29:07 +0530,GET /AkashGupta/registration/aa_insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+833,78.46.59.82,-,-,19/Apr/2019:13:30:24 +0530,GET /AkashGupta/send/ak_fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+834,78.46.59.82,-,-,19/Apr/2019:13:30:29 +0530,GET /AkashGupta/shadi/wedding_insert_feedback.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+835,78.46.59.82,-,-,19/Apr/2019:13:30:40 +0530,GET /AkashGupta/vaishali/ak_fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+836,78.46.59.82,-,-,19/Apr/2019:13:30:50 +0530,GET /AkashGupta/vaishali/ak_insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+837,78.46.59.82,-,-,19/Apr/2019:13:31:02 +0530,GET /AkashGupta/vaishalifetch/ak_fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+838,78.46.59.82,-,-,19/Apr/2019:13:31:11 +0530,GET /AkashGupta/weddinig_2017/ak_fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+839,78.46.59.82,-,-,19/Apr/2019:13:31:23 +0530,GET /AkashGupta/weddinig_2017/ak_insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+840,78.46.59.82,-,-,19/Apr/2019:13:31:30 +0530,GET /Akshayjobs HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+841,78.46.59.82,-,-,19/Apr/2019:13:31:42 +0530,GET /Aman%20Maan/fetching.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+842,78.46.59.82,-,-,19/Apr/2019:13:31:48 +0530,GET /Aman%20Maan/insertion.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+843,78.46.59.82,-,-,19/Apr/2019:13:31:54 +0530,GET /AmanMehta/website/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+844,78.46.59.82,-,-,19/Apr/2019:13:32:02 +0530,GET /Anurag/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+845,78.46.59.82,-,-,19/Apr/2019:13:32:15 +0530,GET /Anurag/fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+846,78.46.59.82,-,-,19/Apr/2019:13:32:21 +0530,GET /Asus/insert_table.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+847,78.46.59.82,-,-,19/Apr/2019:13:32:51 +0530,GET /Asus/insertme.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+848,78.46.59.82,-,-,19/Apr/2019:13:33:02 +0530,GET /Avanish/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+849,78.46.59.82,-,-,19/Apr/2019:13:33:08 +0530,GET /Gauraw%20jha/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+850,78.46.59.82,-,-,19/Apr/2019:13:33:15 +0530,GET /Gurbinder%20Gill/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+851,66.249.65.222,-,-,19/Apr/2019:13:33:24 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\
+852,66.249.65.221,-,-,19/Apr/2019:13:33:26 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\
+853,78.46.59.82,-,-,19/Apr/2019:13:33:27 +0530,GET /Gurbinder%20Gill/fetching.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+854,78.46.59.82,-,-,19/Apr/2019:13:33:34 +0530,GET /LocTalk/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+855,78.46.59.82,-,-,19/Apr/2019:13:33:42 +0530,GET /LocTalk/locationFetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+856,78.46.59.82,-,-,19/Apr/2019:13:33:49 +0530,GET /LocTalk/locationUpdate.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+857,78.46.59.82,-,-,19/Apr/2019:13:33:59 +0530,GET /Mahwish/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+858,78.46.59.82,-,-,19/Apr/2019:13:34:06 +0530,GET /Prabhatsemwal/fetch1.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+859,78.46.59.82,-,-,19/Apr/2019:13:34:13 +0530,GET /Prabhatsemwal/insert1.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+860,78.46.59.82,-,-,19/Apr/2019:13:34:19 +0530,GET /Praful/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+861,78.46.59.82,-,-,19/Apr/2019:13:34:25 +0530,GET /PrateekCetpa/c99.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+862,78.46.59.82,-,-,19/Apr/2019:13:34:31 +0530,GET /PrateekCetpa/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+863,78.46.59.82,-,-,19/Apr/2019:13:34:40 +0530,GET /RRB/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+864,78.46.59.82,-,-,19/Apr/2019:13:34:44 +0530,GET /RRB/webinsert.html HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+865,78.46.59.82,-,-,19/Apr/2019:13:34:52 +0530,GET /Rastogi/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+866,78.46.59.82,-,-,19/Apr/2019:13:34:55 +0530,GET /Rastogijobs/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+867,78.46.59.82,-,-,19/Apr/2019:13:35:18 +0530,GET /Ritik_Ranjan/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+868,78.46.59.82,-,-,19/Apr/2019:13:35:25 +0530,GET /Ritik_Ranjan/Videoview/star.3gp HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+869,78.46.59.82,-,-,19/Apr/2019:13:35:31 +0530,GET /Ritik_Ranjan/major_project/fetchcoupon.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+870,78.46.59.82,-,-,19/Apr/2019:13:35:38 +0530,GET /Ritik_Ranjan/website_app_integration/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+871,78.46.59.82,-,-,19/Apr/2019:13:35:43 +0530,GET /Sbc/sbc.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+872,78.46.59.82,-,-,19/Apr/2019:13:35:50 +0530,GET /ShaliniSingh/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+873,78.46.59.82,-,-,19/Apr/2019:13:35:57 +0530,GET /Shashi/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+874,78.46.59.82,-,-,19/Apr/2019:13:36:01 +0530,GET /Shipra/tryrun/fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+875,78.46.59.82,-,-,19/Apr/2019:13:36:13 +0530,GET /abhishek/etb/fetch_feedback.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+876,78.46.59.82,-,-,19/Apr/2019:13:36:20 +0530,GET /aditya13/event/fetch3.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+877,78.46.59.82,-,-,19/Apr/2019:13:36:26 +0530,GET /agham/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+878,78.46.59.82,-,-,19/Apr/2019:13:36:34 +0530,GET /amansrivastava/fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+879,78.46.59.82,-,-,19/Apr/2019:13:36:37 +0530,GET /amitlogin/connection.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+880,78.46.59.82,-,-,19/Apr/2019:13:36:42 +0530,GET /amitlogin/insert1.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+881,78.46.59.82,-,-,19/Apr/2019:13:36:46 +0530,GET /anjali/project/newsfetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+882,78.46.59.82,-,-,19/Apr/2019:13:36:50 +0530,GET /anjali/project/newsinsert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+883,78.46.59.82,-,-,19/Apr/2019:13:36:57 +0530,GET /ankit99naithani/DataFetch/fetchjoke.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+884,78.46.59.82,-,-,19/Apr/2019:13:37:04 +0530,GET /ankitw/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+885,78.46.59.82,-,-,19/Apr/2019:13:37:22 +0530,GET /anukul/insert2.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+886,78.46.59.82,-,-,19/Apr/2019:13:37:48 +0530,GET /ayushi/insertion.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+887,78.46.59.82,-,-,19/Apr/2019:13:37:51 +0530,GET /bhawana/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+888,78.46.59.82,-,-,19/Apr/2019:13:37:55 +0530,GET /brandon/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+889,78.46.59.82,-,-,19/Apr/2019:13:37:59 +0530,GET /bsadmin/fetching.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+890,78.46.59.82,-,-,19/Apr/2019:13:38:04 +0530,GET /bsadmin/insertion.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+891,78.46.59.82,-,-,19/Apr/2019:13:38:10 +0530,GET /cetpa/fetch_placed.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+892,78.46.59.82,-,-,19/Apr/2019:13:38:15 +0530,GET /cetpa/fetch_running.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+893,78.46.59.82,-,-,19/Apr/2019:13:38:23 +0530,GET /cetpa/fetch_upcomming.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+894,78.46.59.82,-,-,19/Apr/2019:13:44:27 +0530,GET /cetpa/fetch_upcomming.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+895,78.46.59.82,-,-,19/Apr/2019:13:44:40 +0530,GET /cpanel HTTP/1.1,200,33883 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+896,78.46.59.82,-,-,19/Apr/2019:13:44:44 +0530,GET /eventfolder/fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+897,78.46.59.82,-,-,19/Apr/2019:13:44:49 +0530,GET /guru/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+898,78.46.59.82,-,-,19/Apr/2019:13:44:53 +0530,GET /harshita/website/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+899,78.46.59.82,-,-,19/Apr/2019:13:44:55 +0530,GET /harshita/website/ideas.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+900,78.46.59.82,-,-,19/Apr/2019:13:44:58 +0530,GET /himanshu/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+901,78.46.59.82,-,-,19/Apr/2019:13:45:02 +0530,GET /jha/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+902,78.46.59.82,-,-,19/Apr/2019:13:45:05 +0530,GET /jha/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+903,78.46.59.82,-,-,19/Apr/2019:13:45:09 +0530,GET /jyoti/Website/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+904,78.46.59.82,-,-,19/Apr/2019:13:45:13 +0530,GET /jyoti/Website/getData.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+905,78.46.59.82,-,-,19/Apr/2019:13:45:23 +0530,GET /jyoti/Website/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+906,78.46.59.82,-,-,19/Apr/2019:13:45:27 +0530,GET /kiran/Book.html HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+907,78.46.59.82,-,-,19/Apr/2019:13:45:31 +0530,GET /kiran/FileUpload.html HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+908,78.46.59.82,-,-,19/Apr/2019:13:45:35 +0530,GET /kiran/InsertIntoBook2Form.html HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+909,78.46.59.82,-,-,19/Apr/2019:13:45:42 +0530,GET /kiran/LogInExample.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+910,78.46.59.82,-,-,19/Apr/2019:13:45:48 +0530,GET /kiran/connect1.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+911,78.46.59.82,-,-,19/Apr/2019:13:45:53 +0530,GET /kiran/form.html HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+912,78.46.59.82,-,-,19/Apr/2019:13:45:58 +0530,GET /kiran/myform.html HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+913,78.46.59.82,-,-,19/Apr/2019:13:46:01 +0530,GET /kiran/read.php/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+914,78.46.59.82,-,-,19/Apr/2019:13:46:05 +0530,GET /krishnapal/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+915,78.46.59.82,-,-,19/Apr/2019:13:46:10 +0530,GET /krishnapal/fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+916,78.46.59.82,-,-,19/Apr/2019:13:46:14 +0530,GET /krishnapal/fetch1.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+917,78.46.59.82,-,-,19/Apr/2019:13:46:18 +0530,GET /krishnapal/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+918,78.46.59.82,-,-,19/Apr/2019:13:46:22 +0530,GET /krishnapal/insert1.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+919,78.46.59.82,-,-,19/Apr/2019:13:46:26 +0530,GET /krishnapal/webs/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+920,78.46.59.82,-,-,19/Apr/2019:13:46:31 +0530,GET /mayank/fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+921,78.46.59.82,-,-,19/Apr/2019:13:46:35 +0530,GET /mayank/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+922,78.46.59.82,-,-,19/Apr/2019:13:46:39 +0530,GET /mukesh/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+923,78.46.59.82,-,-,19/Apr/2019:13:46:43 +0530,GET /my/fetchblog.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+924,78.46.59.82,-,-,19/Apr/2019:13:46:49 +0530,GET /my/insertblog.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+925,78.46.59.82,-,-,19/Apr/2019:13:46:52 +0530,GET /neeraj_negi/Testing/insert.html HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+926,78.46.59.82,-,-,19/Apr/2019:13:46:56 +0530,GET /neeraj_negi/coupon/delete_coupon.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+927,78.46.59.82,-,-,19/Apr/2019:13:46:59 +0530,GET /neeraj_negi/coupon/fetch_category.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+928,78.46.59.82,-,-,19/Apr/2019:13:47:03 +0530,GET /neeraj_negi/coupon/fetch_cloth_category.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+929,78.46.59.82,-,-,19/Apr/2019:13:47:06 +0530,GET /neeraj_negi/coupon/fetch_coupon.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+930,78.46.59.82,-,-,19/Apr/2019:13:47:12 +0530,GET /neeraj_negi/coupon/fetch_food_category.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+931,78.46.59.82,-,-,19/Apr/2019:13:47:16 +0530,GET /neeraj_negi/coupon/fetch_movie_category.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+932,78.46.59.82,-,-,19/Apr/2019:13:47:20 +0530,GET /neeraj_negi/coupon/fetch_recharge_category.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+933,78.46.59.82,-,-,19/Apr/2019:13:47:24 +0530,GET /neeraj_negi/coupon/fetch_youtube.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+934,78.46.59.82,-,-,19/Apr/2019:13:47:29 +0530,GET /neeraj_negi/coupon/insert_coupon.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+935,78.46.59.82,-,-,19/Apr/2019:13:47:32 +0530,GET /neeraj_negi/coupon/update_coupon.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+936,78.46.59.82,-,-,19/Apr/2019:13:47:35 +0530,GET /neeraj_negi/pgguide/feedback.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+937,78.46.59.82,-,-,19/Apr/2019:13:47:40 +0530,GET /neeraj_negi/pgguide/fetch_pg.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+938,78.46.59.82,-,-,19/Apr/2019:13:47:46 +0530,GET /neeraj_negi/pgguide/fetch_spinner_register.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+939,78.46.59.82,-,-,19/Apr/2019:13:47:50 +0530,GET /neeraj_negi/pgguide/fetch_state_city_wise.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+940,78.46.59.82,-,-,19/Apr/2019:13:47:54 +0530,GET /neeraj_negi/pgguide/insert_pg.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+941,78.46.59.82,-,-,19/Apr/2019:13:47:58 +0530,GET /niharika/allinone/fetchjoke.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+942,78.46.59.82,-,-,19/Apr/2019:13:48:10 +0530,GET /niharika/allinone/fetchthought.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+943,78.46.59.82,-,-,19/Apr/2019:13:48:13 +0530,GET /niharika/allinone/insertjoke.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+944,78.46.59.82,-,-,19/Apr/2019:13:48:17 +0530,GET /noor/TSMinsert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+945,78.46.59.82,-,-,19/Apr/2019:13:48:21 +0530,GET /noor/WGfetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+946,78.46.59.82,-,-,19/Apr/2019:13:48:24 +0530,GET /noor/WGinsertdata.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+947,78.46.59.82,-,-,19/Apr/2019:13:48:27 +0530,GET /noor/ccsfeatch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+948,78.46.59.82,-,-,19/Apr/2019:13:48:30 +0530,GET /noor/tsmfetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+949,78.46.59.82,-,-,19/Apr/2019:13:48:35 +0530,GET /oval/dbinsert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+950,78.46.59.82,-,-,19/Apr/2019:13:48:39 +0530,GET /oval/dblocation.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+951,78.46.59.82,-,-,19/Apr/2019:13:48:42 +0530,GET /oval/fetchingloc.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+952,78.46.59.82,-,-,19/Apr/2019:13:48:46 +0530,GET /oval/infofetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+953,78.46.59.82,-,-,19/Apr/2019:13:48:50 +0530,GET /oval/mainfetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+954,78.46.59.82,-,-,19/Apr/2019:13:48:55 +0530,GET /pawan/alova/fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+955,78.46.59.82,-,-,19/Apr/2019:13:48:58 +0530,GET /piyush/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+956,78.46.59.82,-,-,19/Apr/2019:13:49:04 +0530,GET /prerna/fetch_jobs.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+957,78.46.59.82,-,-,19/Apr/2019:13:49:07 +0530,GET /priyambad/fetchidea.php/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+958,78.46.59.82,-,-,19/Apr/2019:13:49:11 +0530,GET /rahul96/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+959,78.46.59.82,-,-,19/Apr/2019:13:49:15 +0530,GET /rahul96/bollywoodvideocode.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+960,78.46.59.82,-,-,19/Apr/2019:13:49:19 +0530,GET /rahul96/bollywoodvideocode_fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+961,78.46.59.82,-,-,19/Apr/2019:13:49:22 +0530,GET /rahul96/hollywoodvideocode_fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+962,78.46.59.82,-,-,19/Apr/2019:13:49:26 +0530,GET /rahul96/punjabivideocode_fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+963,78.46.59.82,-,-,19/Apr/2019:13:49:31 +0530,GET /rahul96/search_videos.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+964,78.46.59.82,-,-,19/Apr/2019:13:49:35 +0530,GET /rahul96/videocodebollywood_insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+965,78.46.59.82,-,-,19/Apr/2019:13:49:37 +0530,GET /raja/connect.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+966,78.46.59.82,-,-,19/Apr/2019:13:49:42 +0530,GET /raja/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+967,78.46.59.82,-,-,19/Apr/2019:13:49:46 +0530,GET /raja/response1.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+968,78.46.59.82,-,-,19/Apr/2019:13:49:53 +0530,GET /rajeshraman/insertion.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+969,78.46.59.82,-,-,19/Apr/2019:13:49:57 +0530,GET /sakshi/appinsert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+970,78.46.59.82,-,-,19/Apr/2019:13:50:00 +0530,GET /sanjeet/alova/fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+971,78.46.59.82,-,-,19/Apr/2019:13:50:04 +0530,GET /shivanshu/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+972,78.46.59.82,-,-,19/Apr/2019:13:50:09 +0530,GET /shivanshu/webapp/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+973,78.46.59.82,-,-,19/Apr/2019:13:50:12 +0530,GET /shubham/insertidea.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+974,78.46.59.82,-,-,19/Apr/2019:13:50:15 +0530,GET /tanya/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+975,78.46.59.82,-,-,19/Apr/2019:13:50:18 +0530,GET /tuank/fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+976,78.46.59.82,-,-,19/Apr/2019:13:50:22 +0530,GET /tuank/insert.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+977,78.46.59.82,-,-,19/Apr/2019:13:50:25 +0530,GET /tushiv/insertjoke.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+978,78.46.59.82,-,-,19/Apr/2019:13:50:28 +0530,GET /vinaysharma/insert_gk.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+979,78.46.59.82,-,-,19/Apr/2019:13:50:31 +0530,GET /vishal/videocode_fetch_hitqwerty%20hindi.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+980,78.46.59.82,-,-,19/Apr/2019:13:50:34 +0530,GET /vishal/videocode_fetch_hitqwerty_hollywood.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+981,78.46.59.82,-,-,19/Apr/2019:13:50:38 +0530,GET /vishal/videocode_fetch_hitqwerty_punjabi.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+982,78.46.59.82,-,-,19/Apr/2019:13:50:41 +0530,GET /vishal/videocode_fetch_mera_channel.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+983,78.46.59.82,-,-,19/Apr/2019:13:50:45 +0530,GET /vote/fetch.php HTTP/1.1,200,13 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+984,78.46.59.82,-,-,19/Apr/2019:13:50:49 +0530,GET /vote/insert.php HTTP/1.1,200,- \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+985,78.46.59.82,-,-,19/Apr/2019:13:50:54 +0530,GET /vote1/mera.json HTTP/1.1,200,349 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+986,78.46.59.82,-,-,19/Apr/2019:13:50:57 +0530,GET /website/datatables.min.js HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+987,78.46.59.82,-,-,19/Apr/2019:13:50:59 +0530,GET /website/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+988,78.46.59.82,-,-,19/Apr/2019:13:51:02 +0530,GET /website/newspost.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+989,78.46.59.82,-,-,19/Apr/2019:13:51:05 +0530,GET /website/viewnews.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+990,78.46.59.82,-,-,19/Apr/2019:13:51:17 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+991,78.46.59.82,-,-,19/Apr/2019:13:51:21 +0530,GET /Aayushgupta/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+992,78.46.59.82,-,-,19/Apr/2019:13:51:24 +0530,GET /Achlesh/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+993,78.46.59.82,-,-,19/Apr/2019:13:51:26 +0530,GET /Aditya/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+994,78.46.59.82,-,-,19/Apr/2019:13:51:30 +0530,GET /Aishwarya/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+995,78.46.59.82,-,-,19/Apr/2019:13:51:39 +0530,GET /Anurag/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+996,78.46.59.82,-,-,19/Apr/2019:13:51:43 +0530,GET /Asus/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+997,78.46.59.82,-,-,19/Apr/2019:13:51:46 +0530,GET /Gauraw%20jha/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+998,78.46.59.82,-,-,19/Apr/2019:13:51:49 +0530,GET /Gulshanpreet/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+999,78.46.59.82,-,-,19/Apr/2019:13:51:52 +0530,GET /Inderjeet/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1000,78.46.59.82,-,-,19/Apr/2019:13:51:54 +0530,GET /LocTalk/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1001,78.46.59.82,-,-,19/Apr/2019:13:51:57 +0530,GET /Mahwish/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1002,78.46.59.82,-,-,19/Apr/2019:13:52:00 +0530,GET /Manishkala/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1003,78.46.59.82,-,-,19/Apr/2019:13:52:04 +0530,GET /Praful/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1004,78.46.59.82,-,-,19/Apr/2019:13:52:07 +0530,GET /PrateekCetpa/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1005,78.46.59.82,-,-,19/Apr/2019:13:52:11 +0530,GET /RRB/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1006,78.46.59.82,-,-,19/Apr/2019:13:52:17 +0530,GET /RastogiJi/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1007,78.46.59.82,-,-,19/Apr/2019:13:52:19 +0530,GET /Rastogijobs/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1008,78.46.59.82,-,-,19/Apr/2019:13:52:22 +0530,GET /Ritik_Ranjan/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1009,78.46.59.82,-,-,19/Apr/2019:13:52:26 +0530,GET /RohitUpadhayay/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1010,78.46.59.82,-,-,19/Apr/2019:13:52:31 +0530,GET /Shipra/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1011,78.46.59.82,-,-,19/Apr/2019:13:52:35 +0530,GET /Shyam/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1012,78.46.59.82,-,-,19/Apr/2019:13:52:39 +0530,GET /abhishek/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1013,78.46.59.82,-,-,19/Apr/2019:13:52:42 +0530,GET /agham/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1014,78.46.59.82,-,-,19/Apr/2019:13:52:45 +0530,GET /ajay/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1015,78.46.59.82,-,-,19/Apr/2019:13:52:48 +0530,GET /akku007/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1016,78.46.59.82,-,-,19/Apr/2019:13:52:55 +0530,GET /aksh/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1017,78.46.59.82,-,-,19/Apr/2019:13:52:58 +0530,GET /akshay/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1018,78.46.59.82,-,-,19/Apr/2019:13:53:00 +0530,GET /amit2/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1019,78.46.59.82,-,-,19/Apr/2019:13:53:04 +0530,GET /amulya/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1020,78.46.59.82,-,-,19/Apr/2019:13:53:07 +0530,GET /anil/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1021,78.46.59.82,-,-,19/Apr/2019:13:53:09 +0530,GET /ankit99naithani/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1022,78.46.59.82,-,-,19/Apr/2019:13:53:13 +0530,GET /ankitw/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1023,78.46.59.82,-,-,19/Apr/2019:13:53:17 +0530,GET /anshika/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1024,78.46.59.82,-,-,19/Apr/2019:13:53:20 +0530,GET /anukul/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1025,78.46.59.82,-,-,19/Apr/2019:13:53:23 +0530,GET /brandon/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1026,78.46.59.82,-,-,19/Apr/2019:13:53:27 +0530,GET /infinityarya/%3Cdiv%20class= HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1027,78.46.59.82,-,-,19/Apr/2019:13:53:30 +0530,GET /jha/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1028,78.46.59.82,-,-,19/Apr/2019:13:53:32 +0530,GET /kiran/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1029,78.46.59.82,-,-,19/Apr/2019:13:53:35 +0530,GET /mukesh/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1030,78.46.59.82,-,-,19/Apr/2019:13:53:39 +0530,GET /piyush/ HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1031,78.46.59.82,-,-,19/Apr/2019:13:53:54 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1032,78.46.59.82,-,-,19/Apr/2019:13:53:57 +0530,GET /1test/c99.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1033,78.46.59.82,-,-,19/Apr/2019:13:53:59 +0530,GET /2082 HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1034,78.46.59.82,-,-,19/Apr/2019:13:54:07 +0530,GET /AmanMehta/website/index.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1035,78.46.59.82,-,-,19/Apr/2019:13:54:10 +0530,GET /AmanMehta/website/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1036,78.46.59.82,-,-,19/Apr/2019:13:54:13 +0530,GET /RRB/fetch.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1037,78.46.59.82,-,-,19/Apr/2019:13:54:16 +0530,GET /Rastogi/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1038,78.46.59.82,-,-,19/Apr/2019:13:54:19 +0530,GET /Ritik_Ranjan/website_app_integration/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1039,78.46.59.82,-,-,19/Apr/2019:13:54:22 +0530,GET /ShaliniSingh/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1040,78.46.59.82,-,-,19/Apr/2019:13:54:25 +0530,GET /ShaliniSingh/viewnews.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1041,78.46.59.82,-,-,19/Apr/2019:13:54:27 +0530,GET /ShaliniSingh/viewnews.php?id=146 HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1042,78.46.59.82,-,-,19/Apr/2019:13:54:31 +0530,GET /Shashi/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1043,78.46.59.82,-,-,19/Apr/2019:13:54:34 +0530,GET /harshita/website/ideas.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1044,78.46.59.82,-,-,19/Apr/2019:13:54:36 +0530,GET /harshita/website/index.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1045,78.46.59.82,-,-,19/Apr/2019:13:54:39 +0530,GET /krishnapal/fetch1.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1046,78.46.59.82,-,-,19/Apr/2019:13:54:42 +0530,GET /krishnapal/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1047,78.46.59.82,-,-,19/Apr/2019:13:54:45 +0530,GET /krishnapal/webs/index.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1048,78.46.59.82,-,-,19/Apr/2019:13:54:48 +0530,GET /krishnapal/webs/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1049,78.46.59.82,-,-,19/Apr/2019:13:54:50 +0530,GET /neeraj_negi/Testing/insert.html HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1050,78.46.59.82,-,-,19/Apr/2019:13:54:53 +0530,GET /shivanshu/webapp/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1051,78.46.59.82,-,-,19/Apr/2019:13:54:56 +0530,GET /website/news.php HTTP/1.1,404,613 \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1052,78.46.59.82,-,-,19/Apr/2019:13:54:59 +0530,GET /wp/wp-cron.php HTTP/1.1,404,- \-\ \Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)\
+1053,103.72.143.47,-,-,19/Apr/2019:14:01:08 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1054,103.72.143.47,-,-,19/Apr/2019:14:01:15 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1055,103.72.143.47,-,-,19/Apr/2019:14:01:17 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1056,103.72.143.47,-,-,19/Apr/2019:14:01:19 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1057,103.72.143.47,-,-,19/Apr/2019:14:01:20 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1058,103.72.143.47,-,-,19/Apr/2019:14:01:26 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1059,103.72.143.47,-,-,19/Apr/2019:14:01:40 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1060,103.72.143.47,-,-,19/Apr/2019:14:01:40 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1061,103.72.143.47,-,-,19/Apr/2019:14:01:40 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1062,103.72.143.47,-,-,19/Apr/2019:14:01:41 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1063,103.72.143.47,-,-,19/Apr/2019:14:04:44 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1064,103.72.143.47,-,-,19/Apr/2019:14:04:54 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1065,103.72.143.47,-,-,19/Apr/2019:14:04:54 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1066,202.62.95.70,-,-,19/Apr/2019:14:05:02 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1067,202.62.95.70,-,-,19/Apr/2019:14:05:02 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1068,202.62.95.70,-,-,19/Apr/2019:14:05:04 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1069,202.62.95.70,-,-,19/Apr/2019:14:05:05 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1070,202.62.95.70,-,-,19/Apr/2019:14:05:06 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1071,202.62.95.70,-,-,19/Apr/2019:14:05:07 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1072,202.62.95.70,-,-,19/Apr/2019:14:05:07 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1073,106.206.32.184,-,-,19/Apr/2019:14:06:57 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1074,106.206.32.184,-,-,19/Apr/2019:14:06:57 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1075,103.72.143.47,-,-,19/Apr/2019:14:11:46 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+1076,103.72.143.47,-,-,19/Apr/2019:14:11:47 +0530,GET /favicon.ico HTTP/1.1,404,613 \http://searchkero.com/onlinelearn/dotnet_fetch.php\ \Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+1077,103.72.143.47,-,-,19/Apr/2019:14:12:16 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1078,103.72.143.47,-,-,19/Apr/2019:14:12:16 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1079,103.72.143.47,-,-,19/Apr/2019:14:12:16 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1080,103.72.143.47,-,-,19/Apr/2019:14:12:34 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1081,103.72.143.47,-,-,19/Apr/2019:14:12:34 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1082,103.72.143.47,-,-,19/Apr/2019:14:12:34 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1083,103.72.143.47,-,-,19/Apr/2019:14:12:57 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1084,103.72.143.47,-,-,19/Apr/2019:14:12:57 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1085,103.72.143.47,-,-,19/Apr/2019:14:13:17 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+1086,103.72.143.47,-,-,19/Apr/2019:14:13:23 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.103 Safari/537.36\
+1087,103.72.143.47,-,-,19/Apr/2019:14:14:56 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1088,103.72.143.47,-,-,19/Apr/2019:14:16:04 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1089,103.72.143.47,-,-,19/Apr/2019:14:16:04 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1090,103.72.143.47,-,-,19/Apr/2019:14:16:04 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1091,103.72.143.47,-,-,19/Apr/2019:14:16:04 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1092,103.72.143.47,-,-,19/Apr/2019:14:16:42 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1093,103.72.143.47,-,-,19/Apr/2019:14:16:42 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1094,103.72.143.47,-,-,19/Apr/2019:14:16:42 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1095,103.72.143.47,-,-,19/Apr/2019:14:16:42 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1096,40.77.167.84,-,-,19/Apr/2019:14:41:09 +0530,GET /agrima/ HTTP/1.1,200,1137 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+1097,207.46.13.158,-,-,19/Apr/2019:14:56:25 +0530,GET /Install.pdf HTTP/1.1,200,2261504 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+1098,207.46.13.61,-,-,19/Apr/2019:15:16:31 +0530,GET /Rohan/ HTTP/1.1,200,1520 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+1099,207.46.13.153,-,-,19/Apr/2019:15:16:35 +0530,GET /prashant/ HTTP/1.1,200,2571 \-\ \Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)\
+1100,49.14.129.186,-,-,19/Apr/2019:15:26:16 +0530,POST /seven/portal/loggin.php HTTP/1.1,200,55 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+1101,49.14.129.186,-,-,19/Apr/2019:15:26:51 +0530,POST /seven/portal/register.php HTTP/1.1,200,63 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+1102,49.14.158.216,-,-,19/Apr/2019:15:27:43 +0530,POST /seven/portal/register.php HTTP/1.1,200,63 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+1103,103.72.143.47,-,-,19/Apr/2019:15:55:07 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1104,103.72.143.47,-,-,19/Apr/2019:15:55:07 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1105,169.149.250.169,-,-,19/Apr/2019:16:29:57 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1106,169.149.198.55,-,-,19/Apr/2019:16:29:59 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1107,169.149.198.55,-,-,19/Apr/2019:16:30:02 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1108,169.149.198.55,-,-,19/Apr/2019:16:30:03 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1109,169.149.198.55,-,-,19/Apr/2019:16:35:04 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1110,169.149.250.169,-,-,19/Apr/2019:16:35:15 +0530,POST /aa/4.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1111,169.149.250.169,-,-,19/Apr/2019:16:35:18 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1112,169.149.198.55,-,-,19/Apr/2019:16:35:27 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1113,169.149.198.55,-,-,19/Apr/2019:16:35:31 +0530,POST /aa/5.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1114,169.149.198.55,-,-,19/Apr/2019:16:35:31 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1115,169.149.198.55,-,-,19/Apr/2019:16:35:33 +0530,POST /aa/3.php HTTP/1.1,200,197 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1116,169.149.250.169,-,-,19/Apr/2019:16:35:34 +0530,POST /aa/2.php HTTP/1.1,200,4912 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1117,169.149.250.169,-,-,19/Apr/2019:16:35:34 +0530,POST /aa/1.php HTTP/1.1,200,3315 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)\
+1118,81.171.0.136,-,-,19/Apr/2019:16:39:42 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.121 Safari/537.36\
+1119,95.211.148.102,-,-,19/Apr/2019:16:39:42 +0530,GET / HTTP/1.1,200,137 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.121 Safari/537.36\
+1120,81.171.0.136,-,-,19/Apr/2019:16:39:42 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.121 Safari/537.36\
+1121,81.171.0.136,-,-,19/Apr/2019:16:39:42 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.121 Safari/537.36\
+1122,95.211.148.102,-,-,19/Apr/2019:16:39:42 +0530,GET /robots.txt HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.121 Safari/537.36\
+1123,95.211.148.102,-,-,19/Apr/2019:16:39:42 +0530,GET /favicon.ico HTTP/1.1,404,613 \-\ \Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.121 Safari/537.36\
+1124,103.72.143.47,-,-,19/Apr/2019:16:42:28 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1125,103.72.143.47,-,-,19/Apr/2019:16:42:28 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1126,103.72.143.47,-,-,19/Apr/2019:16:58:39 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1127,103.72.143.47,-,-,19/Apr/2019:16:58:39 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1128,103.72.143.47,-,-,19/Apr/2019:16:58:46 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1129,103.72.143.47,-,-,19/Apr/2019:16:58:50 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1130,103.72.143.47,-,-,19/Apr/2019:16:58:54 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1131,103.72.143.47,-,-,19/Apr/2019:16:58:58 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1132,103.72.143.47,-,-,19/Apr/2019:16:59:00 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1133,103.72.143.47,-,-,19/Apr/2019:16:59:08 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1134,103.72.143.47,-,-,19/Apr/2019:16:59:11 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1135,103.72.143.47,-,-,19/Apr/2019:16:59:13 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1136,103.72.143.47,-,-,19/Apr/2019:16:59:15 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1137,103.72.143.47,-,-,19/Apr/2019:16:59:17 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1138,103.72.143.47,-,-,19/Apr/2019:16:59:19 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1139,103.72.143.47,-,-,19/Apr/2019:16:59:34 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1140,103.72.143.47,-,-,19/Apr/2019:16:59:34 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1141,103.72.143.47,-,-,19/Apr/2019:16:59:34 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1142,103.72.143.47,-,-,19/Apr/2019:16:59:42 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1143,103.72.143.47,-,-,19/Apr/2019:16:59:42 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1144,103.72.143.47,-,-,19/Apr/2019:16:59:46 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1145,103.72.143.47,-,-,19/Apr/2019:17:01:16 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1146,103.72.143.47,-,-,19/Apr/2019:17:01:16 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1147,103.72.143.47,-,-,19/Apr/2019:17:01:17 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1148,103.72.143.47,-,-,19/Apr/2019:17:01:17 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1149,103.72.143.47,-,-,19/Apr/2019:17:01:21 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1150,103.72.143.47,-,-,19/Apr/2019:17:01:23 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1151,103.72.143.47,-,-,19/Apr/2019:17:01:52 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1152,103.72.143.47,-,-,19/Apr/2019:17:01:52 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1153,103.72.143.47,-,-,19/Apr/2019:17:01:52 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1154,103.72.143.47,-,-,19/Apr/2019:17:01:53 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1155,103.72.143.47,-,-,19/Apr/2019:17:01:53 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1156,103.72.143.47,-,-,19/Apr/2019:17:02:02 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1157,103.72.143.47,-,-,19/Apr/2019:17:02:11 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1158,103.72.143.47,-,-,19/Apr/2019:17:02:11 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1159,103.72.143.47,-,-,19/Apr/2019:17:02:11 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1160,103.72.143.47,-,-,19/Apr/2019:17:02:11 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1161,103.72.143.47,-,-,19/Apr/2019:17:02:11 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1162,103.72.143.47,-,-,19/Apr/2019:17:02:47 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1163,103.72.143.47,-,-,19/Apr/2019:17:02:47 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1164,103.72.143.47,-,-,19/Apr/2019:17:02:48 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1165,103.72.143.47,-,-,19/Apr/2019:17:02:48 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1166,103.72.143.47,-,-,19/Apr/2019:17:02:52 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1167,103.72.143.47,-,-,19/Apr/2019:17:02:54 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1168,103.72.143.47,-,-,19/Apr/2019:17:02:56 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1169,103.72.143.47,-,-,19/Apr/2019:17:02:58 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1170,103.72.143.47,-,-,19/Apr/2019:17:03:00 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1171,103.72.143.47,-,-,19/Apr/2019:17:03:39 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1172,103.72.143.47,-,-,19/Apr/2019:17:03:39 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1173,103.72.143.47,-,-,19/Apr/2019:17:03:40 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1174,103.72.143.47,-,-,19/Apr/2019:17:03:40 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1175,103.72.143.47,-,-,19/Apr/2019:17:03:40 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1176,103.72.143.47,-,-,19/Apr/2019:17:03:43 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1177,103.72.143.47,-,-,19/Apr/2019:17:03:45 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1178,103.72.143.47,-,-,19/Apr/2019:17:03:47 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1179,103.72.143.47,-,-,19/Apr/2019:17:11:46 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1180,103.72.143.47,-,-,19/Apr/2019:17:11:46 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1181,49.14.114.82,-,-,19/Apr/2019:17:12:41 +0530,POST /portal/insertjobs.php HTTP/1.1,200,16 \-\ \Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A7020a48 Build/MRA58K)\
+1182,103.72.143.47,-,-,19/Apr/2019:17:15:03 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1183,103.72.143.47,-,-,19/Apr/2019:17:15:03 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1184,103.72.143.47,-,-,19/Apr/2019:17:15:07 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1185,103.72.143.47,-,-,19/Apr/2019:17:15:12 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1186,103.72.143.47,-,-,19/Apr/2019:17:15:12 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1187,103.72.143.47,-,-,19/Apr/2019:17:15:14 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1188,103.72.143.47,-,-,19/Apr/2019:17:15:16 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1189,103.72.143.47,-,-,19/Apr/2019:17:15:19 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1190,47.30.251.249,-,-,19/Apr/2019:17:16:46 +0530,POST /aa/fragment_fetch.php HTTP/1.1,200,260 \-\ \Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-J810G Build/R16NW)\
+1191,103.72.143.47,-,-,19/Apr/2019:17:22:19 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1192,103.72.143.47,-,-,19/Apr/2019:17:22:19 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1193,103.72.143.47,-,-,19/Apr/2019:17:22:27 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1194,27.59.61.150,-,-,19/Apr/2019:17:30:52 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1195,27.59.61.150,-,-,19/Apr/2019:17:30:52 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1196,27.59.61.150,-,-,19/Apr/2019:17:30:55 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1197,27.59.61.150,-,-,19/Apr/2019:17:30:56 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1198,27.59.61.150,-,-,19/Apr/2019:17:30:56 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1199,27.59.61.150,-,-,19/Apr/2019:17:30:57 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1200,27.59.61.150,-,-,19/Apr/2019:17:30:57 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1201,27.59.61.150,-,-,19/Apr/2019:17:31:08 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1202,27.59.61.150,-,-,19/Apr/2019:17:31:09 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1203,27.59.61.150,-,-,19/Apr/2019:17:31:10 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1204,27.59.61.150,-,-,19/Apr/2019:17:31:10 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1205,27.59.61.150,-,-,19/Apr/2019:17:31:11 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1206,27.59.61.150,-,-,19/Apr/2019:17:31:11 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1207,27.59.61.150,-,-,19/Apr/2019:17:31:12 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1208,27.59.61.150,-,-,19/Apr/2019:17:31:12 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1209,27.59.61.150,-,-,19/Apr/2019:17:31:13 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1210,27.59.61.150,-,-,19/Apr/2019:17:31:25 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1211,27.59.61.150,-,-,19/Apr/2019:17:31:25 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1212,27.59.61.150,-,-,19/Apr/2019:17:31:28 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1213,27.59.61.150,-,-,19/Apr/2019:17:31:28 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1214,27.59.61.150,-,-,19/Apr/2019:17:31:28 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1215,27.59.61.150,-,-,19/Apr/2019:17:31:28 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1216,27.59.61.150,-,-,19/Apr/2019:17:31:29 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1217,27.59.61.150,-,-,19/Apr/2019:17:31:30 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1218,27.59.61.150,-,-,19/Apr/2019:17:31:31 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1219,27.59.61.150,-,-,19/Apr/2019:17:31:42 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1220,27.59.61.150,-,-,19/Apr/2019:17:31:42 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1221,27.59.61.150,-,-,19/Apr/2019:17:31:42 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1222,27.59.61.150,-,-,19/Apr/2019:17:31:43 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1223,27.59.61.150,-,-,19/Apr/2019:17:31:43 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1224,27.59.61.150,-,-,19/Apr/2019:17:31:45 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1225,27.59.61.150,-,-,19/Apr/2019:17:31:54 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1226,27.59.61.150,-,-,19/Apr/2019:17:31:55 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1227,27.59.61.150,-,-,19/Apr/2019:17:31:56 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1228,27.59.61.150,-,-,19/Apr/2019:17:31:56 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1229,27.59.61.150,-,-,19/Apr/2019:17:31:57 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1230,27.59.61.150,-,-,19/Apr/2019:17:32:24 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1231,27.59.61.150,-,-,19/Apr/2019:17:32:24 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1232,27.59.61.150,-,-,19/Apr/2019:17:34:50 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\
+1233,27.59.61.150,-,-,19/Apr/2019:17:34:50 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1234,27.59.61.150,-,-,19/Apr/2019:17:34:52 +0530,GET /onlinelearn/php_fetch.php HTTP/1.1,200,5069 \-\ \okhttp/2.7.5\
+1235,27.59.61.150,-,-,19/Apr/2019:17:34:52 +0530,GET /onlinelearn/ios_fetch.php HTTP/1.1,200,388 \-\ \okhttp/2.7.5\
+1236,27.59.61.150,-,-,19/Apr/2019:17:34:53 +0530,GET /onlinelearn/iot_fetch.php HTTP/1.1,200,4853 \-\ \okhttp/2.7.5\
+1237,27.59.61.150,-,-,19/Apr/2019:17:34:53 +0530,GET /onlinelearn/python_fetch.php HTTP/1.1,200,4562 \-\ \okhttp/2.7.5\
+1238,27.59.61.150,-,-,19/Apr/2019:17:34:53 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1239,27.59.61.150,-,-,19/Apr/2019:17:35:32 +0530,GET /onlinelearn/dotnet_fetch.php HTTP/1.1,200,477 \-\ \okhttp/2.7.5\
+1240,27.59.61.150,-,-,19/Apr/2019:17:35:35 +0530,GET /onlinelearn/android_fetch.php HTTP/1.1,200,612 \-\ \okhttp/2.7.5\
+1241,27.59.61.150,-,-,19/Apr/2019:17:35:35 +0530,GET /onlinelearn/java_fetch.php HTTP/1.1,200,3731 \-\ \okhttp/2.7.5\

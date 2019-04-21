@@ -85,19 +85,19 @@ export class VisualizeComponent implements OnInit {
       },
       scales: {
         xAxes: [ {
-          type: 'time',
+          // type: 'time',
           display: true,
           scaleLabel: {
             display: true,
             labelString: ""
           }
-          // ,
-          // ticks: {
-          //   major: {
-          //     fontStyle: 'bold',
-          //     fontColor: 'red'
-          //   }
-          // }
+          ,
+          ticks: {
+            major: {
+              fontStyle: 'bold',
+              fontColor: 'red'
+            }
+          }
         } ],
         yAxes: [ {
           display: true,

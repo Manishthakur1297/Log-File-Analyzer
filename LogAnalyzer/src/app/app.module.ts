@@ -12,6 +12,8 @@ import { RouterModule } from '@angular/router';
 import { DashboardModule } from './dashboard/dashboard.module';
 import { routes } from './app-routing.module';
 import { AuthService } from './Services/auth.service';
+import { MaterialModule } from './mat-table/material.module';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -25,7 +27,9 @@ import { AuthService } from './Services/auth.service';
     RouterModule.forRoot(routes),
     DashboardModule,
     FormsModule,
-    ReactiveFormsModule,HttpModule
+    ReactiveFormsModule,HttpModule,
+    MaterialModule,
+    BrowserAnimationsModule
   ],
   providers: [AuthService, RestService],
   bootstrap: [AppComponent]

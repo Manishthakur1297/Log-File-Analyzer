@@ -7,6 +7,11 @@ import { HomeComponent } from './home/home.component';
 export const routes: Routes = 
 [
 
+  // {
+  //   path : '' ,
+  //   component : DisplayComponent
+  // },
+
   {
     path : '' ,
     component : HomeComponent

@@ -15,6 +15,7 @@ import { ChartsModule } from 'ng2-charts';
 import { PieChartComponent } from './visualize/pie-chart/pie-chart.component';
 import { DougnutChartComponent } from './visualize/dougnut-chart/dougnut-chart.component';
 import { RadarChartComponent } from './visualize/radar-chart/radar-chart.component';
+import { MatTableModule, MatPaginatorModule } from '@angular/material';
 
 @NgModule({
   declarations: [LayoutComponent, AnalyzeComponent, VisualizeComponent, SearchComponent, SortingComponent, BarChartComponent, PieChartComponent, DougnutChartComponent, RadarChartComponent],
@@ -23,7 +24,13 @@ import { RadarChartComponent } from './visualize/radar-chart/radar-chart.compone
     RouterModule.forChild(dashboardroutes),
     FormsModule,HttpModule,
     ReactiveFormsModule,
-    ChartsModule
+    ChartsModule,
+    MatTableModule,
+    MatPaginatorModule
+  ],
+  exports: [
+    MatTableModule,
+    MatPaginatorModule
   ],
   providers: [AuthGuard]
 })

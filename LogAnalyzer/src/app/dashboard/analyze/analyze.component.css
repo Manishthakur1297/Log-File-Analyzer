@@ -4,40 +4,37 @@ h1,h2
     text-align: center;
   }
 
-  .red
-  {
-    background-color:rgb(201, 54, 54);
-    color: #fff;
-  }
 
-  .green
-  {
-    background-color:rgb(56, 168, 71);
-    color: #fff;
-  }
+/* .success{background-color:#dff0d8}
 
-  .mark{
-    background-color:rgb(163, 163, 62);
-    color: #fff;
-  }
-  .default
-  {
-    background-color:#ddd;
-    color: black;
-  }
+.info{background-color:#d9edf7}
 
-  .blue{
-    background-color: rgb(63, 63, 167);
-    color: #fff;
-  }
+.warning{background-color:#fcf8e3}
+.danger{background-color:#f2dede} */
 
-  /* .mat-row:nth-child(even){
-    background-color:red;
-    }
+/* .active{color:#fff;background-color:#f5f5f5}
+.primary{color:#fff;background-color:#007bff;border-color:#007bff}
+.secondary{color:#fff;background-color:#6c757d;border-color:#6c757d}
+.success{color:#fff;background-color:#28a745;border-color:#28a745}
+.info{color:#fff;background-color:#17a2b8;border-color:#17a2b8}
+.warning{color:#fff;background-color:#ffc107;border-color:#ffc107}
+.danger{color:#fff;background-color:#dc3545;border-color:#dc3545}
+.light{color:#212529;background-color:#f8f9fa;border-color:#f8f9fa}
+.dark{color:#fff;background-color:#343a40;border-color:#343a40}
+.outline-primary{color:#007bff;border-color:#007bff} */
 
-.mat-row:nth-child(odd){
-    background-color:black;
-    } */
+.active{color:#fff;background-color:#f5f5f5}
+.primary{color:#fff;background-color:#366aa1;border-color:#007bff}
+.secondary{color:#fff;background-color:#6e7881;border-color:#6c757d}
+.success{color:#fff;background-color:#1eb341ce;border-color:#28a745}
+.info{color:#fff;background-color:#218fa0;border-color:#17a2b8}
+.warning{color:#fff;background-color:#c5ab5bf8;border-color:#ffc107}
+.danger{color:#fff;background-color:#f14455b6;border-color:#dc3545}
+.light{color:#212529;background-color:#cbd2daf5;border-color:#f8f9fa}
+.dark{color:#fff;background-color:#343a40;border-color:#343a40}
+.outline-primary{color:#007bff93;border-color:#007bff}
+
+
 
 /* ------------------Table--------------- */
 
@@ -60,13 +57,11 @@ h1,h2
 #logFile th {
   padding-top: 12px;
   padding-bottom: 12px;
-  text-align: left;
-  background-color: #4CAF50;
+  text-align: center;
+  font-size: 19px;
+  background-color: rgb(51, 172, 55);
   color: white;
 }
 
 
 /* -=--------------- */
-
-tr.approved { background-color: green }
-tr.rejected { background-color: red }

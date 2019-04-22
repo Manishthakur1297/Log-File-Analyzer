@@ -37,38 +37,42 @@ export class AnalyzeComponent implements OnInit {
   }
 
   getColor(r) {
-    console.log(r);
+    //console.log(r);
     if(this.displayedColumns.some(x => x === "Level"))
     {
       var s:string = r["Level"].toLowerCase();
       switch (s) {
         case "error":
-          return "red";
+          return "danger";
         case "notice":
-          return "green";
+          return "success";
         case "fatal":
-          return "mark";
+          return "warning";
         case "info":
-          return "blue";
-        // default:
-        //   return "default";
+          return "info";
+        case "warn":
+          return "warning";
+        case "debug":
+          return "secondary";
+        case "trace":
+          return "dark";
       }
   }
 
   else if(this.displayedColumns.some(x => x === "Status"))
     {
       var s:string = r["Status"].toString();
-      switch (s) {
-        case "200":
-          return "green";
-        case "404":
-          return "red";
-        case "403":
-          return "mark";
-        case "500":
-          return "red";
-        case "304":
-          return "default";
+      switch (s.charAt(0)) {
+        case '1':
+          return "info";
+        case '2':
+          return "success";
+        case '3':
+          return "secondary";
+        case '4':
+          return "danger";
+        case '5':
+          return "warning";
       }
   }
 }

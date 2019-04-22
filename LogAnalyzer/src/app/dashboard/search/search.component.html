@@ -15,15 +15,20 @@
 
 <hr>
 
-<table id="logFile">
-      <tr>
-        <th *ngFor="let col of file_format1">
-          {{col}}
-        </th>
+
+<div>
+    <table id="logFile" mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+      <div *ngFor="let col of displayedColumns">
+          <ng-container [matColumnDef]="col">
+              <th mat-header-cell *matHeaderCellDef> {{col}} </th>
+              <td mat-cell *matCellDef="let row"
+              [ngClass]="getColor(row)"
+              >{{row[col]}} </td>
+            </ng-container>
+      </div>
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;">
       </tr>
-      <tr *ngFor="let e of arr">
-        <td *ngFor="let col of file_format1">
-          {{e[col]}}
-        </td>
-      </tr>
-</table>
+    </table>
+    <mat-paginator [pageSizeOptions]="[10, 20, 50]" showFirstLastButtons></mat-paginator>
+  </div>

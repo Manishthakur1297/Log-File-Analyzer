@@ -166,9 +166,17 @@ body::after {
 }
 
 #navigation-container {
-  width: 100%;
+  width: 80%;
   margin: 0 auto;
   height: 70px;
+  float: left;
+}
+
+#navigation-container1 {
+  width: 20%;
+  margin: 0 auto;
+  height: 70px;
+  float: right;
 }
 
 .navigation-bar {
@@ -204,22 +212,34 @@ float:left;
 
 .navigation-bar li button
 {
-  background:none!important;
   color:inherit;
   border:none; 
-  padding:0!important;
   font-size: 20px;
-  border-bottom: 1px solid red;
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   cursor: pointer;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   color: white;
   font-style: oblique, italic, bold;
   background: #4CAF50;
   text-decoration: none;
-  line-height: 45px;
-  
-  
+  line-height: 25px;
+  margin: 10px;
+  margin-left: 16px;
+  border-radius: 6px;
 
+}
+
+.navigation-bar li button.logout
+{
+  color: #fff;
+  padding: 10px;
+  background: rgba(201, 67, 67, 0.973);
+}
+
+.navigation-bar li button.download
+{
+  color: #fff;
+  padding: 10px;
+  background: rgba(24, 155, 207, 0.979);
 }
 
 .navigation-bar li a {
@@ -232,6 +252,9 @@ float:left;
   opacity: 1;
   display: inline-block;
 }
+
+.navigation-bar li button.logout:hover:not(.active) {color: rgba(201, 67, 67, 0.973); background-color: #fff}
+.navigation-bar li button.download:hover:not(.active) {color: rgba(24, 155, 207, 0.979); background-color: #fff}
 
 .navigation-bar li a:hover:not(.active) {background-color: #fff; color: #4CAF50}
   

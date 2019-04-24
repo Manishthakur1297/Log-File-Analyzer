@@ -1,15 +1,22 @@
-<h1>Log Analyzer</h1>
+<h1>Log File Analyzer</h1>
 <hr>
 <div class="navigation-bar">
+
   <div id="navigation-container">
         <ul> 
           <li><a routerLink="analyze" routerLinkActive="active">Analyze</a></li>
           <li><a routerLink="visualize" routerLinkActive="active">Visualize</a></li>
           <li><a routerLink="search" routerLinkActive="active">Search</a></li>
           <li><a routerLink="sorting" routerLinkActive="active">Sort</a></li>
-          <li><button type="button" (click)="logout()">Log Analyzer</button></li>
       </ul>
   </div>
+
+  <div id="navigation-container1">
+    <ul> 
+      <li><button class="download" type="button" (click)="downloadButtonPush()">Download</button></li>
+      <li><button class= "logout" type="button" (click)="logout()">Log Analyzer</button></li>
+  </ul>
+</div>
 </div>
 
 <!-- <div class="topnav">

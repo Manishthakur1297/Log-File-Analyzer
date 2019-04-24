@@ -17,6 +17,7 @@ export class SortingComponent implements OnInit {
   }
 
 
+  file_name :any;
   arr:any;
   file_format:any;
   response : any;
@@ -32,7 +33,7 @@ export class SortingComponent implements OnInit {
       console.log(this.response)
       this.arr = this.response[0];
       this.file_format = this.response[1];
-
+      this.file_name = this.response[2];
       this.displayedColumns = this.file_format;
       this.dataSource = new MatTableDataSource(this.arr);
       this.dataSource.paginator = this.paginator;
@@ -53,6 +54,8 @@ export class SortingComponent implements OnInit {
         case "info":
           return "info";
         case "warn":
+          return "warning";
+        case "warning":
           return "warning";
         case "debug":
           return "secondary";
@@ -103,48 +106,6 @@ export class SortingComponent implements OnInit {
   }
 
 
-  downloadButtonPush() {
-    var csvData = this.ConvertToCSV(this.response[0]);
-    var blob = new Blob([csvData], { type: 'text/csv' });
-    var url = window.URL.createObjectURL(blob);
   
-    if(navigator.msSaveOrOpenBlob) {
-      navigator.msSaveBlob(blob, "Test.csv");
-    } else {
-      var a = document.createElement("a");
-      a.href = url;
-      a.download = 'ETPHoldReview.csv';
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-    }
-    window.URL.revokeObjectURL(url);
-  }
-
-
-  ConvertToCSV(objArray: any): string {
-    var array = typeof objArray != 'object' ? JSON.parse(objArray) : objArray;
-    var str = '';
-    var row = "";
-
-    for (var index in objArray[0]) {
-        //Now convert each value to string and comma-separated
-        row += index + ',';
-    }
-    row = row.slice(0, -1);
-    //append Label row with line break
-    str += row + '\r\n';
-
-    for (var i = 0; i < array.length; i++) {
-        var line = '';
-        for (var index in array[i]) {
-            if (line != '') line += ','
-
-            line += array[i][index];
-        }
-        str += line + '\r\n';
-    }
-    return str;
-}
 
 }

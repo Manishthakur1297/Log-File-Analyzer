@@ -1,4 +1,6 @@
 from flask import Flask, jsonify, request;
+from flask_cors import CORS, cross_origin
+from flask_restful import Resource, Api
 import pickle;
 import os
 import re
@@ -12,6 +14,8 @@ import json
 from LogParser import *
 
 app = Flask(__name__)
+api=Api(app)
+CORS(app)
 
 @app.route("/", methods=['GET'])
 
@@ -60,14 +64,14 @@ def ReadFile():
             df = pd.DataFrame(mainList, columns=log_format)
             df.to_csv(file_name+"_structured.csv", sep=',', encoding='utf-8', index=False)
 
-        return jsonify(mainList,log_format)
+        return jsonify(mainList,log_format,file_name)
     else:
         print("----")
         parser = LogParser(log_format, file_format)
         resList = parser.parse(file_text1)
         #rex =  titles[file_format]['regex'][0]
         col = list(resList.columns.values)
-        return jsonify(resList.to_dict('records'),col)
+        return jsonify(resList.to_dict('records'),col, file_name)
 
 
 @app.route("/search", methods = ['GET'])

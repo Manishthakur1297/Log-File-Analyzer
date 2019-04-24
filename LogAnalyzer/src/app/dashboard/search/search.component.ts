@@ -28,7 +28,7 @@ export class SearchComponent implements OnInit {
 
   ngOnInit() {
       this.response = this.rs.responseData;//this.auth.getResponsedata();
-      console.log(this.response)
+      console.log(this.response)  
       this.arr = this.response[0];
       this.file_format = this.response[1];
 

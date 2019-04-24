@@ -66,7 +66,7 @@ export class VisualizeComponent implements OnInit {
   ngOnInit() {
 
     this.res = this.rs.responseData;
-    this.file_format = this.res[1];
+    this.file_format = this.res[1].slice(1);
     this.column = this.file_format[2];
     this.onColumnChange(this.column);
   }
@@ -75,7 +75,6 @@ export class VisualizeComponent implements OnInit {
 
     scaleShowVerticalLines: false,
       responsive: true,
-      legend: { position: 'left' },
       title : {
         display : true,
         position : "top",
